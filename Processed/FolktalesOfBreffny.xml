@@ -1,0 +1,857 @@
+<TEI.2 lang="en" xml:lang="en"><teiHeader type="text" status="new"><fileDesc><titleStmt><title>Folk Tales of Breffny</title><author key="Hunt, Bampton" ref="https://viaf.org/viaf/41917310/">Bampton Hunt</author><respStmt><resp>#####</resp><name key="#####" ref="#####">#####</name></respStmt></titleStmt><publicationStmt><publisher>Project Gutenberg</publisher><pubPlace>Urbana, Illinois, USA.</pubPlace><idno type="LCCN">#####</idno><idno type="OLN">OL24183245M</idno><idno type="OLW">OL12747511W</idno><idno type="OCLC">4772812</idno><idno type="LibThing">#####</idno><idno type="PGclearance">#####</idno><idno type="PGDPProjectId">#####</idno><idno type="PGSrc">54724-Hunt-Folk-Tales-of-Breffny</idno><idno type="epub-id">urn:uuid:dea00fa7-f053-4b47-85dd-7cac0de0041e</idno><idno type="PGnum">54724</idno><date>2017-05-14</date><availability><p>This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the <xref url='https://www.gutenberg.org/license' rel='license'>Project Gutenberg License</xref> included with this eBook or online at <xref url='https://www.gutenberg.org/' rel='home'>www.gutenberg.org</xref>.
+</p><p>This eBook is produced by the Online Distributed Proofreading Team at <xref url="http://www.pgdp.net/">www.pgdp.net</xref>.
+</p><p>Scans for this book are available from the Internet Archive (copy <xref url="https://archive.org/details/cu31924029911264">1</xref>, <xref url="https://archive.org/details/folktalesofbreff00hunt">2</xref>).
+</p></availability></publicationStmt><notesStmt><note type="Description">#####</note></notesStmt><sourceDesc><bibl><author>B. Hunt</author>
+<title>Folk Tales of Breffny</title>
+<date>1912</date></bibl></sourceDesc></fileDesc><encodingDesc><p/></encodingDesc><profileDesc><langUsage><language id="en">English</language><language id="en-us">English (United States)</language><language id="en-uk">English (United Kingdom)</language><language id="de">German</language><language id="fr">French</language><language id="la">Latin</language></langUsage><textClass><keywords><list type="simple"><item>Folklore -- Ireland</item></list></keywords></textClass></profileDesc><revisionDesc><list type="simple"><item>2017-05-13 Started.
+    </item></list></revisionDesc></teiHeader><text rend="stylesheet(style/classic.css)"><front id="frontmatter"><div1 id="cover" type="Cover"><p><figure id="cover-image" rend="image(images/frontcover.jpg)"><figDesc>Original Front Cover.</figDesc></figure>
+
+
+<pb/></p></div1><div1 id="french" type="FrenchTitle"><p rend="align(center)">FOLK TALES OF BREFFNY
+
+
+<pb/></p></div1><div1 id="imprint" type="Imprint"><p><figure id="logo" rend="image(images/logo.png)"><figDesc>Publisher&#8217;s logo.</figDesc></figure>
+</p><p rend="align(center)"><hi rend="sc">MACMILLAN AND CO., Limited</hi><lb/>
+LONDON &#183; BOMBAY &#183; CALCUTTA<lb/>
+MELBOURNE
+</p><p rend="align(center)">THE MACMILLAN COMPANY<lb/>
+NEW YORK &#183; BOSTON &#183; CHICAGO<lb/>
+DALLAS &#183; SAN FRANCISCO
+</p><p rend="align(center)"><hi rend="sc">THE MACMILLAN CO. OF CANADA, Ltd.</hi><lb/>
+TORONTO
+
+
+
+<pb/></p></div1><div1 id="titlepage" type="TitlePage"><p><figure id="titlepage-image" rend="image(images/titlepage.png)"><figDesc>Original Title Page.</figDesc></figure>
+
+
+</p></div1><titlePage><docTitle><titlePart type="main">FOLK TALES OF BREFFNY</titlePart></docTitle><byline>BY
+<lb/>
+<docAuthor>B. HUNT</docAuthor></byline><docImprint>MACMILLAN AND CO., LIMITED<lb/>
+ST. MARTIN&#8217;S STREET, LONDON<lb/>
+<docDate>1912</docDate></docImprint></titlePage><pb n="iv"/><div1 id="copyright" type="Copyright"><p rend="align(center)">COPYRIGHT
+
+
+<pb n="v"/></p></div1><div1 id="intro" type="Introduction"><head>INTRODUCTION</head><p>Many of the stories in this volume were told by an old man who said he had more and better learning nor the scholars. &#8220;The like of them,&#8221; he declared, &#8220;do be filled with conceit out of books, and the most of it only nonsense; &#8217;tis myself has the real old knowledge was handed down from the ancient times.&#8221; The spread of education and cheap literature robbed him of audience: the boys read of adventure by land and sea, the girls interested themselves in the fate of heroes with marble-white complexion and coal-black moustache. But it happened that the old man took a contract to break stones for lime, and a child with an insatiable desire for information came to watch him at work. &#8220;I promise you will walk the world, like a Queen of <pb n="vi"/>ancient days, renowned for learning and wit,&#8221; he assured her, delighted to find a listener at last. The child was only seven years old, and could not remember all she heard, so most of his lore died with him.
+</p><p>&#8220;The King&#8217;s Daughter of France,&#8221; &#8220;The Dark Oath,&#8221; and &#8220;Nallagh&#8217;s Child&#8221; were told by other friends.
+</p><p>The Folk Tale is essentially dramatic and loses much when it is written down; moreover it is often put into a form unsuited to the spirit of na&#239;ve philosophy from whence it springs. The peasant of ancient race is more akin to the aristocratic type than the bourgeois can ever be&#8212;and the story told from generation to generation bears greater resemblance to the work of a poet than to that of the popular novelist, who is the bourgeois of literature. Superstition in a race is merely the proof of imagination, the people lacking fairy lore must also lack intelligence and wit.
+
+</p><p rend="class(signed)">B. HUNT.
+
+
+
+
+<pb n="vii"/></p></div1><div1 id="toc" type="Contents"><head>CONTENTS</head><list type="tocList"><item>       <ab type="tocPageNum">PAGE</ab>
+</item><item><ab type="tocDivNum">I.</ab> <hi rend="sc"><ref target="ch1">The King&#8217;s Daughter of France</ref></hi>      <ab type="tocPageNum">1</ab></item><item><ab type="tocDivNum">II.</ab> <hi rend="sc"><ref target="ch2">The Cow of a Widow of Breffny</ref></hi>      <ab type="tocPageNum">13</ab></item><item><ab type="tocDivNum">III.</ab> <hi rend="sc"><ref target="ch3">Kate Ellen&#8217;s Wake</ref></hi>      <ab type="tocPageNum">21</ab></item><item><ab type="tocDivNum">IV.</ab> <hi rend="sc"><ref target="ch4">The Dark Oath</ref></hi>      <ab type="tocPageNum">29</ab></item><item><ab type="tocDivNum">V.</ab> <hi rend="sc"><ref target="ch5">Fairy Gold</ref></hi>      <ab type="tocPageNum">37</ab></item><item><ab type="tocDivNum">VI.</ab> <hi rend="sc"><ref target="ch6">M&#8217;Carthy of Connacht</ref></hi>      <ab type="tocPageNum">45</ab></item><item><ab type="tocDivNum">VII.</ab> <hi rend="sc"><ref target="ch7">Nallagh&#8217;s Child</ref></hi>      <ab type="tocPageNum">65</ab></item><item><ab type="tocDivNum">VIII.</ab> <hi rend="sc"><ref target="ch8">The Enchanted Hare</ref></hi>      <ab type="tocPageNum">73</ab></item><item><ab type="tocDivNum">IX.</ab> <hi rend="sc"><ref target="ch9">The Bridge of the Kist</ref></hi>      <ab type="tocPageNum">81</ab></item><item><ab type="tocDivNum">X.</ab> <hi rend="sc"><ref target="ch10">The Child and the Fiddle</ref></hi>      <ab type="tocPageNum">89</ab></item><item><ab type="tocDivNum">XI.</ab> <hi rend="sc"><ref target="ch11">The Cutting of the Tree</ref></hi>      <ab type="tocPageNum">97</ab></item><item><ab type="tocDivNum">XII.</ab> <hi rend="sc"><ref target="ch12">The Little Settlement</ref></hi>      <ab type="tocPageNum">105</ab></item><item><ab type="tocDivNum">XIII.</ab> <hi rend="sc"><ref target="ch13">The Tillage in the Fort</ref></hi>      <ab type="tocPageNum">115</ab></item><item><ab type="tocDivNum">XIV.</ab> <hi rend="sc"><ref target="ch14">The New Deck of Cards</ref></hi>      <ab type="tocPageNum">121</ab><pb n="viii"/></item><item><ab type="tocDivNum">XV.</ab> <hi rend="sc"><ref target="ch15">The Lifting of a Child</ref></hi>      <ab type="tocPageNum">127</ab></item><item><ab type="tocDivNum">XVI.</ab> <hi rend="sc"><ref target="ch16">The Voice at the Door</ref></hi>      <ab type="tocPageNum">135</ab></item><item><ab type="tocDivNum">XVII.</ab> <hi rend="sc"><ref target="ch17">The Earl&#8217;s Son of the Sea</ref></hi>      <ab type="tocPageNum">143</ab></item><item><ab type="tocDivNum">XVIII.</ab> <hi rend="sc"><ref target="ch18">The Girl and the Fairies</ref></hi>      <ab type="tocPageNum">153</ab></item><item><ab type="tocDivNum">XIX.</ab> <hi rend="sc"><ref target="ch19">Good-night, my Brave Michael</ref></hi>      <ab type="tocPageNum">159</ab></item><item><ab type="tocDivNum">XX.</ab> <hi rend="sc"><ref target="ch20">The Lad and the Old Lassie&#8217;s Song</ref></hi>      <ab type="tocPageNum">165</ab></item><item><ab type="tocDivNum">XXI.</ab> <hi rend="sc"><ref target="ch21">The Basket of Eggs</ref></hi>      <ab type="tocPageNum">169</ab></item><item><ab type="tocDivNum">XXII.</ab> <hi rend="sc"><ref target="ch22">The Broken Branch</ref></hi>      <ab type="tocPageNum">175</ab></item><item><ab type="tocDivNum">XXIII.</ab> <hi rend="sc"><ref target="ch23">Digging for Gold</ref></hi>      <ab type="tocPageNum">179</ab></item><item><ab type="tocDivNum">XXIV.</ab> <hi rend="sc"><ref target="ch24">Story of a Churn</ref></hi>      <ab type="tocPageNum">183</ab></item><item><ab type="tocDivNum">XXV.</ab> <hi rend="sc"><ref target="ch25">The Gankeynogue in the Oak Chest</ref></hi>      <ab type="tocPageNum">187</ab></item><item><ab type="tocDivNum">XXVI.</ab> <hi rend="sc"><ref target="ch26">The Maker of Brogues</ref></hi>      <ab type="tocPageNum">193</ab>
+</item><item>      <hi rend="sc"><ref target="gloss">Glossary</ref></hi>      <ab type="tocPageNum">197</ab></item></list><pb id="pb1" n="1"/></div1></front><body><div1 id="ch1" type="Chapter"><head type="label">I</head><head>THE KING&#8217;S DAUGHTER OF FRANCE</head><pb id="pb3" n="3"/><p>There was once an old man of Ireland who was terrible poor, and he lived by his lone in a small wee house by the roadside. At the morning of the day he would go for to gather sticks in a wood was convenient to that place, the way he&#8217;d have a clear fire to be sitting at of an evening.
+</p><p>It fell out one time, of a cold night, that Paddy heard a knock at the door. He went over, and when he opened it he seen a little boy in a red cap standing without.
+</p><p>&#8220;Let you come in and take an air to the fire,&#8221; says he, for he always had a good reception for every person.
+</p><p>The boy with the red cap walked in, and <pb id="pb4" n="4"/>he stopped for a good while conversing. He was the best of company, and the old man didn&#8217;t find the time passing until he rose for to go.
+</p><p>&#8220;Let you come in and rest yourself here any evening you are out in these parts,&#8221; says he.
+</p><p>The very next night the little fellow was in it again, and the night after that, warming himself at the clear fire and talking away.
+</p><p>&#8220;Paddy,&#8221; says he, the evening he was in it for the third time, &#8220;Paddy, I do be thinking it is bitter poor you are!&#8221;
+</p><p>&#8220;I am, surely,&#8221; says the old man.
+</p><p>&#8220;Well, let you pay attention to me, it is the truth I&#8217;m speaking, you&#8217;ll have more gold than ever you&#8217;ll contrive for to spend.&#8221;
+</p><p>&#8220;I could go through a fair share of gold,&#8221; says Paddy.
+</p><p>&#8220;I am determined for to make a rich man of you,&#8221; the little boy goes on. &#8220;There is a lady at the point of death, and she is the King&#8217;s daughter of France. I have a bottle here in my pocket, and that is the cure for the disease is on her. I&#8217;ll be giving it to you, and let you set out for France at the morning of the day. When you come to the King&#8217;s <pb id="pb5" n="5"/>palace the servants will bid you be gone for an ignorant beggar, but let you not be heeding them at all. Don&#8217;t quit asking to see the King, and in the latter end they&#8217;ll give in to you. It is with himself the most difficulty will be, for that man will think it hard to believe the likes of a poor old Irishman could have a better cure nor all the doctors in the world. A power of them allowed they&#8217;d have her right well in no time, and it is worse they left her. The King is after giving out that the next person coming with a false cure be to lose their life. Let you not be scared at that decree, for you are the man shall succeed. You may promise to have the lady fit to ride out hunting in nine days. Three drops from the bottle is all you have to give her, and that for three mornings after other.&#8221;
+</p><p>Paddy paid great heed to all the boy in the red cap was telling him. He took the wee bottle that was to make him a rich man, and he made ready for to set out at the morning of the day.
+</p><p>He was a long time travelling the world before he came to the palace where the King&#8217;s daughter of France was lying at the point of <pb id="pb6" n="6"/>death. The servants made a great mock of the poor old Irishman, but he paid no attention to their words at all. In the latter end he got seeing the King, and that gentleman allowed the likes of Paddy could never succeed when the doctors of the world were after failing.
+</p><p>&#8220;I&#8217;d only be having the head cut off you, my poor old man!&#8221; says he.
+</p><p>&#8220;I&#8217;m not the least bit in dread, your honour,&#8221; says Paddy. &#8220;The lady is bound to be ready to ride out hunting in nine days, if she uses my medicine.&#8221;
+</p><p>His perseverance and courage won over the King of France, and permission was given for a trial of the cure.
+</p><p>The first morning, after taking the three drops from the bottle, the lady turned in her bed. The second morning, after the treatment, she sat up and ate her food.
+</p><p>The third morning, when she had taken the three drops, the King&#8217;s daughter of France rose from her bed. And in nine days she was ready to ride out hunting.
+</p><p>They could not do enough for Paddy, there was great gratitude in them. Well, the reward he accepted was a big sack of gold, <pb id="pb7" n="7"/>and that was the load he brought home to his cabin in Ireland.
+</p><p>The first evening he was sitting by his clear fire, the little boy came in at the door.
+</p><p>&#8220;Didn&#8217;t I do well for you, Paddy?&#8221; says he.
+</p><p>&#8220;You did surely. I have more gold in that sack than ever I&#8217;ll contrive for to spend.&#8221;
+</p><p>&#8220;Ah, not at all! It is twice as much I&#8217;ll be getting for you.&#8221;
+</p><p>&#8220;Is it another King&#8217;s daughter has need of a cure?&#8221; asks Paddy.
+</p><p>&#8220;No, but a different business entirely. There is a great bully to be fought in the City of Dublin, and yourself is the man shall win it.&#8221;
+</p><p>&#8220;Do you tell me so!&#8221; says Paddy.
+</p><p>&#8220;In troth I do. The man you have to fight is a big, fierce fellow no one can get the better of. He has the youth of the world battered to pieces, the way no person comes forward against him any more. There is a fine purse of money put up for to entice a champion to face him; and there will be great laughter when yourself puts in an appearance. They will ask if you are wishful to fight with gloves on your hands, but it is <pb id="pb8" n="8"/>your bare fists are the best. Let you say you&#8217;ll toss for which it is to be, but toss with the half-crown I give you, and you are certain to win. Myself is coming to that place for to second you, and it&#8217;s bound to be the grandest bully was seen in the City of Dublin.&#8221;
+</p><p>With that the little fellow went away out of the house. And at the morning of the day my brave old Paddy started for Dublin. He wasn&#8217;t too long on the road, for he got a lift from a man was driving there to see the bully. Well, there was odious laughing and cheering when the crowd saw the champion was come to accept the challenge. The big man was after battering the youth of the world, allowed he had no notion of striving against the likes of Paddy. But when no person else came forward they were bound for to accept him, and they asked would he wear gloves on his fists.
+</p><p>&#8220;We&#8217;ll be tossing for that,&#8221; says he, bringing out the half-crown he had from the little boy in the red cap.
+</p><p>He won the toss, sure enough, and he allowed it was bare-handed he&#8217;d strive. All the time he was looking round, anxious like, <pb id="pb9" n="9"/>but he could see no sign of the one that was to second him. He went into the ring in odious dread; but then the little fellow came and stood beside him. My brave Paddy let out and he struck the champion one blow, and didn&#8217;t he lay him dead at his feet.
+</p><p>It was then there was roaring and cheering for the old man. And in all the confusion the little lad got away; Paddy never seen where he went. The whole crowd took up a terrible great collection of money for the champion was after destroying the man with a single blow. That lot of gold, along with the purse was promised for the fight, filled a sack as full as it could hold. So Paddy went home well rewarded, and not a bit the worse of his jaunt to the City of Dublin.
+</p><p>The first evening he was sitting by his own fireside, the little boy in the red cap came in at the door.
+</p><p>&#8220;Didn&#8217;t I do well for you, Paddy?&#8221; says he.
+</p><p>&#8220;You did, surely. It is rich for life I am owing to your contrivances.&#8221;
+</p><p>&#8220;Then will you be doing me a service in return for all?&#8221; asks the little fellow.
+</p><p>&#8220;Indeed then, I will,&#8221; says Paddy.
+<pb id="pb10" n="10"/></p><p>&#8220;We have all arranged for to cross over to France this night. We intend for to bring away the lady you cured, the King&#8217;s daughter of that country,&#8221; says the boy. &#8220;But we cannot contrive for to accomplish the like unless we have flesh and blood along with us. Will you come?&#8221;
+</p><p>&#8220;Aye, surely!&#8221; says Paddy.
+</p><p>With that the two went out at the door and across the road into a field. It was thronged with regiments of the Good People, past belief or counting. They were running every way through the field, calling out:
+</p><p>&#8220;Get me a horse, get me a horse!&#8221;
+</p><p>And what were they doing only cutting down the bohlans and riding away on them.
+</p><p>&#8220;Get me a horse, get me a horse!&#8221; says old Paddy, calling out along with them.
+</p><p>But the fellow in the red cap came over to him looking terrible vexed.
+</p><p>&#8220;Don&#8217;t let another word out of you,&#8221; says he, &#8220;except one of ourselves speaks first. Mind what I&#8217;m telling you or it will be a cause of misfortune.&#8221;
+</p><p>&#8220;I&#8217;ll say no more except in answer to a question,&#8221; says Paddy.
+</p><p>With that they brought him a white <pb id="pb11" n="11"/>yearling calf, and put him up for to ride upon it. He thought it was a queer sort of a horse, but he passed no remarks. And away they rode at a great pace, the Good People on the bohlans and Paddy on the yearling calf.
+</p><p>They made grand going, and it wasn&#8217;t long before they came to a big lake had an island in the middle of it. With one spring the whole party landed on the island and with another they were safe on the far shore.
+</p><p>&#8220;Dam, but that was a great lep for a yearling calf,&#8221; says Paddy.
+</p><p>With that one of the Good People struck him a blow on the head, the way the sense was knocked out of him and he fell on the field.
+</p><p>At daylight the old man came to himself, and he lying on the field by the big lake. He was a long journey from home, and he was weary travelling round the water and over the hills to his own place. But the worst of all was the sacks of gold: didn&#8217;t every bit of the fortune melt away and leave him poor, the way he was before he came in with the Good People.
+
+
+
+
+<pb id="pb13" n="13"/></p></div1><div1 id="ch2" n="II" type="Chapter"><head type="label">II</head><head>THE COW OF A WIDOW OF BREFFNY</head><pb id="pb15" n="15"/><p>In the ancient times a man the name of M&#8217;Gauran ruled in these parts. He was a cruel tyrant surely and prouder than the High King of Ireland or O&#8217;Rourke was a Prince in Breffny. He conceited for to build a house would stand to the end of time, a stronghold past the art of man to overthrow or the fury of the wind to batter down. He gave out that all the bullocks in his dominions were to be slaughtered and mortar wet with the blood of them. Evenly the cows were not spared at the latter end, the way a powerful lamentation went up from the poor of the world were looking on the lonesome fields.
+</p><p>You that are young will be thinking the <pb id="pb16" n="16"/>blackness of his spirit and the cruelty of his heart brought a curse on him to rot the flesh off his living bones. You will be expectant of the story of a king, and he walking the provinces of Ireland a skeleton and a warning to the eyes of man. But the aged and wise have understanding to know of the tribulation laid out for the good and the just, they putting their sorrows over them in this world where the evil have prosperity. The like will be enduring for a short space only, and a queer fate waits the wicked in the age-long hours of eternity. Proud is the tyrant and wealthy till they set him in the clay: humbled with fear is his spirit at the journey&#8217;s end.
+</p><p>There was a widow woman had her little dwelling convenient to where M&#8217;Gauran was building his castle. Gold she had none, nor evenly a coin was of silver, one cow only was her riches on the earth. (And surely them that had heart to molest her like would be robbing the dead of the raiment is with them in the grave.) Herself was more nor horrid lonesome the day she seen the creature driven from her by a man of the chiefs, he having a lengthy knife in his hand.
+</p><p>At the fall of night a traveller came to <pb id="pb17" n="17"/>the poor woman&#8217;s cabin door. He was a bent, aged man with a sorrowful countenance on him, and the garments did cover him were rags. She invited him within, giving him the kindly welcome, and she set out what food was in the place for his refreshment.
+</p><p>&#8220;It is destroyed I am with a parching drouth is splitting my gullet,&#8221; says he, &#8220;and I walking the mountainy ways since the screech of dawn. The sun was splitting the bushes at the noon of day, and the fury of it was eating into my skin. But no person took compassion on me at all.&#8221;
+</p><p>With that the widow set a mug of milk before him, and it the last drop was in the countryside. He drank it down, middling speedy, and he held out the cup to be filled again.
+</p><p>&#8220;&#8217;Tis a heart scald surely,&#8221; says herself, &#8220;that I be to refuse the request of a man is weary walking the territory of Ireland, since the rising sun brought light on his path. There is a king in these parts, stranger, and he has the cattle destroyed on the poor of the world, the way he will have a lasting mortar to his house.&#8221;
+</p><p>&#8220;Isn&#8217;t yourself after giving me the loveliest <pb id="pb18" n="18"/>mug of sweet milk?&#8221; says he, like one was doubtful of the honesty of her words.
+</p><p>&#8220;The last drop was in this townland, stranger, and it is heart glad I am that it refreshed you. I had but the one cow only, the grandest milker in the land, and she was driven from me this day&#8212;up yonder to the masons are working with their shovels dripping red.&#8221;
+</p><p>&#8220;I am thinking it is four strong walls in the pit of Hell are building for that chieftain&#8217;s soul. Maybe it&#8217;s red hot they&#8217;ll be, and he imprisoned within them for a thousand years and more,&#8221; says the traveller.
+</p><p>&#8220;Let there be what masonry there will in the next world, the wealth of the people cements his castle there beyond. For the cow and the milk and the butter are the gold of the dwellers on the land,&#8221; says the widow. &#8220;But let you be resting a while in this place: what haste is on you to depart?&#8221; For she seen he was rising to be gone.
+</p><p>He raised his hand in benediction, and the voice of him speaking was that sweet it charmed the birds off the bushes, the way they flew round him in the darkening night. &#8220;May the blessing of the King of Heaven be <pb id="pb19" n="19"/>upon you. May He send you a cow will never run dry, and you milking her at all seasons of the year to the day of your departure from the world.&#8221;
+</p><p>With that the place was bare of his presence. He was gone the like of a spirit has power to travel the land unseen.
+</p><p>At the morning of the day following the poor woman stood at her cottage door, facing out to the mountains are a long journey from that place. Didn&#8217;t she see a great wonder:&#8212;A piece fell clean from the hillside and from it came a cow, white as the driven snow, she travelling faster nor the wind. The widow seen all as clear as we do be regarding the rising of the sun in the Eastern sky. Whatever power was laid on her eyes the distance was no obstruction to her vision that day. But it was not until the creature came and stood by herself that she bethought her of the benediction of the traveller, and the cow would never run dry.
+</p><p>That was the beast had the great renown on her: people came from every art and part to be looking on her. The milk she gave was richer nor the best of cream, and the butter off it was the best in Ireland.
+<pb id="pb20" n="20"/></p><p>The day the widow died, a young child seen the white cow travelling away to the mountains. And no man beheld her more, nor evenly heard tell of the like. But the Gap of Glan confronts us to this day, and that is where the creature rose to the light of the world.
+
+
+
+<pb id="pb21" n="21"/></p></div1><div1 id="ch3" n="III" type="Chapter"><head type="label">III</head><head>KATE ELLEN&#8217;S WAKE</head><pb id="pb23" n="23"/><p>Kate Ellen lived by her lone for her husband was employed overseas. She was a strange sort of a creature, pale and scared looking, with one blue eye in her head and the other one grey. She had some kind of disease that came at her with a fluttering in her heart. Sometimes she would die of it for a couple of hours, and all the while she was dead she&#8217;d be dreaming she was drowning.
+</p><p>There was a fort not a many perches distant from my poor Kate Ellen&#8217;s house, and that was a noted place for the Good People to be out diverting themselves. Moreover it was well known to the neighbours that herself used to be away with them, but she allowed there was no truth in the report. Now it <pb id="pb24" n="24"/>happened of a May eve that a young child seen her, and she milking the cushogues along with a score of the fairies. Another night a man on his way from a distant fair found her on the road before him riding with the little horseman.
+</p><p>One day Kate Ellen came into the kitchen of a friend&#8217;s house, and she stopped there chatting for an hour&#8217;s time. She allowed that she&#8217;d surely die in a short space for the disease was making great ravages and the doctors could take no hold of it at all.
+</p><p>&#8220;No person can give me the least relief in the world,&#8221; says she. &#8220;And I&#8217;ll be making but the one request of my friends and neighbours, let there be no whiskey at the wake.&#8221;
+</p><p>&#8220;Sure the like was never heard tell of before,&#8221; says the woman of the house. &#8220;What use would there be in a dry wake?&#8221;
+</p><p>&#8220;Maybe no use at all, as you are after saying,&#8221; answers Kate Ellen. &#8220;But let you pay heed to my words or there&#8217;s like to be a queer story told at the end of time.&#8221;
+</p><p>&#8220;&#8217;Tis the raving of death is on you, my poor creature,&#8221; says the woman of the house. &#8220;Sure you&#8217;ll be the beautiful corpse and <pb id="pb25" n="25"/>every one of us paying our best respects to the same.&#8221;
+</p><p>Not a long after Kate Ellen was found in her own house and she lying dead on the floor. All the friends and neighbours gathered in for the wake, and what had they along with them only a beautiful jar of the best whiskey. They could not think to give in to the arrangement herself set out, that they&#8217;d remain in the place with a parching drouth for company.
+</p><p>The whole party were sitting round, and the jar of itself was in the middle of the floor. There came a noise and shouting on the street, like as if there was a powerful assembly of people without; and then a great battering on the windows. The door opened wide and the disturbance came into the kitchen, yet no person sitting there seen a heth that was not in it from the start. It was a queer gathering surely, for the friends and neighbours of the dead were silent and still, and the crying went round them on the air.
+</p><p>After a while didn&#8217;t the jar of whiskey let a lep out of it and begin for to roll on the floor. It was turned again and every drop <pb id="pb26" n="26"/>teemed from it before the watching eyes. Yet no person seen the Good People were handling the drink and roving through the house. Then the disturbance passed from the kitchen, and away down the field, whatever was last for to go closed the door behind all.
+</p><p>A man stood up and he says: &#8220;This is no right gathering surely, and we would do well to be gone.&#8221;
+</p><p>With that another opens the door, and all made ready to depart. But when they looked out and seen the fort all thronged with lights they grew fearful to quit the house.
+</p><p>There was the powerfullest laughter and cheering down among the thorn trees of the circle, and there came a blast of the loveliest music&#8212;fiddles and pipes and voices singing.
+</p><p>&#8220;It is the Good People are having the whole beautiful wake down there beyond,&#8221; says a man. &#8220;Sure it is well known Kate Ellen was in league with themselves.&#8221;
+</p><p>&#8220;By the powers, it is more like a wedding they are conducting this hour,&#8221; says another.
+</p><p>&#8220;Come on away home,&#8221; says a third, &#8220;what enticement is on us stop when the drink is gone from us to the fairies are fiddling with joy!&#8221;
+<pb id="pb27" n="27"/></p><p>But they bid him depart by his lone, for the rest were in dread of passing the fort before day. He was a bold, daring sort of a man, and it&#8217;s likely he&#8217;d have gone only for his brother taking a hold of his coat.
+</p><p>&#8220;You&#8217;ll be taken by the Good People,&#8221; says he, &#8220;and they in great humour after whipping off with the whiskey before our eyes.&#8221;
+</p><p>Sure it was more nor horrid wonderful that Kate Ellen had understanding for to know what might be taking place on the night of her departure from home. Maybe it&#8217;s in agreement she was to be going for good with the fairies and not to her grave at all.
+
+
+
+<pb id="pb29" n="29"/></p></div1><div1 id="ch4" n="IV" type="Chapter"><head type="label">IV</head><head>THE DARK OATH</head><pb id="pb31" n="31"/><p>In the ancient times there was a young lad, and he gifted with a temper was a fright to the world of man. He never controlled his speech but took delight in letting great oaths and curses out of him, they rising continually in his heart like water in a spring well.
+</p><p>There were few of the neighbours had a mind to make free with himself, sure it was an odious dread came upon them and they regarding the villainy of his heart lepping out at his mouth with the words speaking. All the time he was middling great with another gosoon of the one age who would not be warned from his company.
+</p><p>The two would be travelling the roads and roaming the fields of Connacht from the <pb id="pb32" n="32"/>screech of dawn to dark. But for all their diversions together they fell out on a summer&#8217;s day, and it was blows they gave one another until a strong perspiration ran down from them and the air moved before their eyes like the stars of heaven on a frosty night. Neither could gain the mastery, and at long last they be to quit striving for they were bone weary and feeble as an infant child.
+</p><p>The one was hasty in his speech let a dark oath that he would be the death of his companion, evenly if the power of the lonesome grave itself was set between them to hold him from the fulfilment of his vow.
+</p><p>In three days from the time the words were spoken he died of a strange, sudden sickness.
+</p><p>The other had a great satisfaction on him, he having no dread of a man was rotting in the clay, where rich and poor are alike and the strong have no mastery above the weak. But in a short while a warning came to the lad in a dream, the way he walked the world in fear from that out:&#8212;
+</p><p>He seen a field where he was standing by his lone to confront a black bull was charging down. The eyes of the beast were glowing red as burning fire, and it was no right <pb id="pb33" n="33"/>thing surely. There was such a fluttering of dread on the boy that he could not endeavour for to run, but he stood like a growing rush does be waving with the breeze. Three times the likeness of the great black bull came down against him, wounding him with the curved and lengthy horns were upon it; with that he awoke.
+</p><p>&#8220;The devil will be gifting the spirit of the dead with the form of a living beast, the way he&#8217;ll get bringing me the dark destruction he promised, and I looking fearful at the flames are burning in his eyes,&#8221; thinks the lad.
+</p><p>Sure enough, in a month&#8217;s time, he was in a field, and the appearance of the black bull came against him. Three times it struck him, the way he was tormented with the agony of the goring horns. With that the likeness of the living beast faded from the place leaving the young lad sore and sorry but alive.
+</p><p>He had peace for a short space only to be thinking on his escape. Didn&#8217;t a second warning come in the night to restore the cold fear to his heart:&#8212;
+</p><p>He seen a black goat come at him in <pb id="pb34" n="34"/>standing leps, and the eyes of it were glowing like a turf in the heart of a strong fire.
+</p><p>&#8220;It is less power the devil be&#8217;s giving him this time,&#8221; thinks the lad. &#8220;All the while &#8217;tis an ill hour stands before me: the like of yon beast will be middling weighty and it striking me in a standing lep with no one of its four feet upon the ground.&#8221;
+</p><p>All came about as it was put on his eyes in the vision. Not a many days went by before the likeness of the great black goat threw its strength against him in the field. Three sore batterings he be to endure, the way he was left lying on the grass with every bone of him tormented in pain and a cold fear at his soul.
+</p><p>When the wounds were healed on his body and the passing of time restored his mind to a better peace, didn&#8217;t he behold a third dream of the night:&#8212;
+</p><p>He stood in the lane between his house and the field, and the appearance of a great turkey cock flew down upon him from the sky.
+</p><p>At that he let a hearty laugh, and he roused up in his bed.
+</p><p>&#8220;Sure the devil has little wit to be thinking <pb id="pb35" n="35"/>I&#8217;ll take my death from the like,&#8221; says he. &#8220;And how would it be possible a fine, stout-hearted lad could be scared by the fowls of the sky!&#8221;
+</p><p>He laughed that night, and he laughed at the noon of day when the bird flew against him in the lane. But the appearance of the turkey cock opened the joining of his skull with one blow of the beak like a sharpened knife was upon it. The second stroke and the third dashed the brains from his head and scattered them grey on the brown and dusty path.
+</p><p>And that is the how he came to a bad death as his companion promised him, and the dark oath was accomplished no spite of the power of the grave.
+</p><p>We that are yet in this world know well where we are, but ignorance is on us of where we be to repair. Sure the passing of the spirit is the strangest and awfullest thing was ever devised or heard tell of. It was said in the ancient times and is well known to this present that the soul quits the body by the joining of the skull. The eyes have seen evil, the ears have heard it, and the mouth has made laughter and speech of the same: <pb id="pb36" n="36"/>how then would they be a right and a fitting doorway for the feet of the spirit to pass! Moreover, I have heard tell that the skull of man and the skull of woman are different one from another&#8212;and it is the soul of herself has the sorest departure from the flesh.
+
+
+
+
+<pb id="pb37" n="37"/></p></div1><div1 id="ch5" n="V" type="Chapter"><head type="label">V</head><head>FAIRY GOLD</head><pb id="pb39" n="39"/><p>It happened one time that a poor man dreamt three nights after other of a sack of fairy gold was buried in under the roots of a lone bush and it growing in a field convenient to his house.
+</p><p>&#8220;It may be there is nothing in it,&#8221; says he to himself. &#8220;But I will be digging in that place and if I find a treasure it will be a big reward for the labour.&#8221;
+</p><p>He never let on a word of his intentions to any person, nor did he evenly pass any remark on the strange dreams were after coming to him. At the fall of the day he took a loy in his hand and set out for the lone bush. He was not a great while at work before the steel blade struck against a <pb id="pb40" n="40"/>substance that had no feel of clay, and the man was full sure it was not a stone he was after striking against. He wraught hard to bring whatever was in it to light&#8212;and what had he only a powerful fine sack of pure gold and splendid jewels.
+</p><p>He raised it up on his shoulders and set out for home, staggering under the load. It was maybe a hundredweight of treasure he had with him, and he went along planning out the uses of that wealth. Sure the burden was a rejoicement to him and no hardship at all evenly if it had him bent double like an aged and crippled man.
+</p><p>When he came to his own place he went to the byre, and it was there he put down the sack in front of three cows were standing in the bails. For he was not wishful to be making a display of that splendour before the neighbours all, and it was likely he would find some person within making their cailee. Sure enough when he went in on the door of the house he seen two men sitting by the fire and they in no haste to depart. Now the strangers had the English only, and the people of the house spoke Irish with one another.
+<pb id="pb41" n="41"/></p><p>Says himself, using the Gaelic, &#8220;I have a beautiful treasure without&#8212;bars of fine gold are in it, and jewels would be the delight of a queen of the world.&#8221;
+</p><p>&#8220;Oh, bring it into the house,&#8221; says she. &#8220;Sure it will rise my heart to be looking on the like; the hunger of it is put on my eyes by your words speaking.&#8221;
+</p><p>&#8220;I have better wit than to make display of my fortune to every person is living in the land,&#8221; says he. &#8220;Let you content yourself until the two men have departed, and then we&#8217;ll fetch the sack in from the byre where I left it in front of the cows.&#8221;
+</p><p>When the man and woman of the house were shut of the company they went out to the yard, and they fair wild with delight. Himself told the story of the three dreams and the finding of the gold in under the roots of the lone bush.
+</p><p>&#8220;Did you spit on it?&#8221; she inquires.
+</p><p>&#8220;I did not,&#8221; says he.
+</p><p>With that she allowed he was after making a big mistake.
+</p><p>&#8220;How would that be?&#8221; he asks.
+</p><p>&#8220;My father had great knowledge of the like,&#8221; says herself. &#8220;I often heard him tell <pb id="pb42" n="42"/>of how those treasures do be enchanted, and power is on them for to melt away. But if a man was to spit on fairy gold he&#8217;d get keeping it surely.&#8221;
+</p><p>&#8220;Amn&#8217;t I after bringing it this far,&#8221; says he, &#8220;and the weight of it destroying my shoulders with bruises and pains. Not the least sign of melting was on yon article and it a warrant to bring down the scales at a hundred and more.&#8221;
+</p><p>With that they went into the byre, and they seen the three cows were striving to break out of the bails.
+</p><p>&#8220;They are in dread of what&#8217;s lying there in front,&#8221; says herself. &#8220;The cattle of the world have good wisdom surely, and they do be looking on more nor the eye of man gets leave to behold.&#8221;
+</p><p>&#8220;Quit raving about the cows,&#8221; says he. &#8220;Look at my lovely sack and it bulging full.&#8221;
+</p><p>When the two went up to the head of the bails the woman let a great cry out of her.
+</p><p>&#8220;What are you after bringing to this place from among the roots of the lone bush? It has the movement of life in it&#8212;and how could the like be treasure at all!&#8221;
+<pb id="pb43" n="43"/></p><p>&#8220;Hold your whisht, woman,&#8221; says the husband, and he middling vexed at her words.
+</p><p>&#8220;Will you look at the bag is turning over on the ground?&#8221; says she.
+</p><p>He seen there was truth in her words, but all the while he would not give in to be scared.
+</p><p>&#8220;It is likely a rat is after creeping in,&#8221; he allows, &#8220;and he is having his own times striving to win out.&#8221;
+</p><p>&#8220;Let you open the sack, and I will be praying aloud for protection on us&#8212;for it is no right thing is in it at all,&#8221; says herself.
+</p><p>With that he went over and he turned the hundredweight of treasure until he had it propped up against the bails. When he began for to open the bag the cows went fair wild, striving and roaring and stamping to get away from the place entirely.
+</p><p>The head of a great eel looked out from under the man&#8217;s hand where he was groping for the treasure. The eyes of it were the colour of flame and as blinding to the sight as the naked sun at noon of a summer&#8217;s day.
+</p><p>The man gave one lep that carried him to the door and there the paralysis of dread held him down. Herself let a scream could be <pb id="pb44" n="44"/>heard in the next townland, but she never asked to stir from where she was standing.
+</p><p>The appearance of the eel twisted itself out of the sack and travelled along the ground, putting the six feet of its length into the awfullest loops and knots were ever seen. Then it reared up its head and neck to stand swaying for a while, a full half of it in the air. The man and woman were convenient to the door but the both were too scared to go out on it; they watched the eel and they seen it twist up round a bail until the head of it was touching the roof. Didn&#8217;t it break away out through the thatch, and whether it melted off the face of the earth or travelled to other parts was never heard tell. But the likeness of that beast was the whole and only treasure came out of the sack the poor man dug from under the roots of the lone bush where the fairy gold was hid.
+
+
+
+<pb id="pb45" n="45"/></p></div1><div1 id="ch6" n="VI" type="Chapter"><head type="label">VI</head><head>M&#8217;CARTHY OF CONNACHT</head><pb id="pb47" n="47"/><div2 n="I" type="Section"><head>I</head><p>There was a fine young gentleman the name of M&#8217;Carthy, he had a most beautiful countenance and for strength and prowess there was none to equal him in the baronies of Connacht. But he began to dwine away, and no person knew what ailed him. He used no food at all and he became greatly reduced, the way he was not able to rise from his bed and he letting horrid groans and lamentations out of him. His father sent for three skilled doctors to come and find out what sort of disease it might be, and a big reward was promised for the cure.
+</p><p>Three noted doctors came on the one day and they searched every vein in young <pb id="pb48" n="48"/>M&#8217;Carthy&#8217;s body, but they could put no name on the sickness nor think of a remedy to relieve it. They came down from the room and reported that the disease had them baffled entirely.
+</p><p>&#8220;Am I to be at the loss of a son is the finest boy in all Ireland?&#8221; says the father.
+</p><p>Now one of the doctors had a man with him was a very soft-spoken person, and he up and says:
+</p><p>&#8220;Maybe your honours would be giving me permission to visit the young gentleman. I have a tongue on me is that sweet I do be drawing the secrets of the world out of men and women and little children.&#8221;
+</p><p>Well they brought him up to the room and they left him alone with M&#8217;Carthy. He sat down by the side of the bed and began for to flatter him, the like of such conversation was never heard before.
+</p><p>At long last he says, &#8220;Let your Lordship&#8217;s honour be telling me&#8212;What is it ails you at all?&#8221;
+</p><p>&#8220;You will never let on to a living soul?&#8221; asks M&#8217;Carthy.
+</p><p>&#8220;Is it that I&#8217;d be lodging an information against a noble person like yourself?&#8221; says the man.
+<pb id="pb49" n="49"/></p><p>With that the young gentleman began telling the secrets of his heart.
+</p><p>&#8220;It is no disease is on me,&#8221; says he, &#8220;but a terrible misfortune.&#8221;
+</p><p>&#8220;&#8217;Tis heart scalded I am that you have either a sorrow or a sickness, and you grand to look on and better to listen to,&#8221; says the other.
+</p><p>&#8220;It is in love I am,&#8221; says M&#8217;Carthy.
+</p><p>&#8220;And how would that be a misfortune to a fine lad like yourself?&#8221; asks the man.
+</p><p>&#8220;Let you never let on!&#8221; says M&#8217;Carthy. &#8220;The way of it is this: I am lamenting for no lady is walking the world, nor for one is dead that I could be following to the grave. I have a little statue has the most beautiful countenance on it was ever seen, and it is destroyed with grief I am that it will never be speaking to me at all.&#8221;
+</p><p>With that he brought the image out from under his pillow, and the loveliness of it made the man lep off the chair.
+</p><p>&#8220;I&#8217;d be stealing the wee statue from your honour if I stopped in this place,&#8221; says he. &#8220;But let you take valour into your heart, for that is the likeness of a lady is living in the world, you will be finding her surely.&#8221;
+<pb id="pb50" n="50"/></p><p>With that he went down to the three doctors and the old man were waiting below. For all his promises to young M&#8217;Carthy he told the lot of them all he was after hearing. The doctors allowed that if the gentleman&#8217;s life was to be saved he must be got out of his bed and sent away on his travels.
+</p><p>&#8220;For a time he will be hopeful of finding her,&#8221; says the oldest doctor. &#8220;Then the whole notion will pass off him, and he seeing strange lands and great wonders to divert him.&#8221;
+</p><p>The father was that anxious for the son&#8217;s recovery that he agreed to sell the place and give him a big handful of money for the journey.
+</p><p>&#8220;It is little I&#8217;ll be needing for myself from this out, and I am old man near ripe for the grave,&#8221; says he.
+</p><p>So they all went up to the room and told young M&#8217;Carthy to rise from his bed and eat a good dinner, for the grandest arrangements out were made for his future and he&#8217;d surely meet the lady. When he seen that no person was mocking him he got into the best of humour, and he came down and feasted with them.
+</p><p>Not a long afterwards he took the big <pb id="pb51" n="51"/>handful of money and set out on his travels, bringing the statue with him. He went over the provinces of Ireland, then he took sea to England and wandered it entirely, away to France with him next and from that to every art and part of the world. He had the strangest adventures, and he seen more wonders than could ever be told or remembered. At the latter end he came back to the old country again, with no more nor a coin or two left of the whole great fortune of money. The whole time he never seen a lady was the least like the wee statue; and the words of the old doctor were only a deceit for he didn&#8217;t quit thinking of her at all. M&#8217;Carthy was a handsome young gentleman, and if it was small heed he had for any person he met it was great notice was taken of him. Sure it was a Queen, no less, and five or six princesses were thinking long thoughts on himself.
+</p><p>The hope was near dead in his heart and the sickness of grief was on him again when he came home to Ireland. Soon after he landed from the ship he chanced to come on a gentleman&#8217;s place, and it a fine big house he never had seen before. He went up and inquired of the servants if he would get leave <pb id="pb52" n="52"/>to rest there. He was given a most honourable reception, and the master of the house was well pleased to be entertaining such an agreeable guest. Now himself happened to be a Jew, and that is the why he did not ask M&#8217;Carthy to eat at his table, but had his dinner set out for him in a separate room. The servants remarked on the small share of food he was using, it was scarcely what would keep the life in a young child; but he asked them not to make any observation of the sort. At first they obeyed him, yet when he used no meat at all on the third day, didn&#8217;t they speak with their master.
+</p><p>&#8220;What is the cause of it at all?&#8221; he says to M&#8217;Carthy. &#8220;Is the food in this place not to your liking? Let you name any dish you have a craving for, and the cook will prepare it.&#8221;
+</p><p>&#8220;There was never better refreshment set before an emperor,&#8221; says M&#8217;Carthy.
+</p><p>&#8220;It is civility makes you that flattering,&#8221; answers the Jew. &#8220;How would you be satisfied with the meat is set before you when you are not able to use any portion of it at all?&#8221;
+</p><p>&#8220;I doubt I have a sickness on me will be <pb id="pb53" n="53"/>the means of my death,&#8221; says M&#8217;Carthy. &#8220;I had best be moving on from this place, the way I&#8217;ll not be rewarding your kindness with the botheration of a corpse.&#8221;
+</p><p>With that the master of the house began for to speak in praise of a doctor was in those parts.
+</p><p>&#8220;I see I must be telling you what is in it,&#8221; says M&#8217;Carthy. &#8220;Doctors have no relief for the sort of tribulation is destroying me.&#8221;
+</p><p>He brought out the statue, and he went over the whole story from start to finish. How he set off on his travels and was hopeful for awhile; and how despair got hold of him again.
+</p><p>&#8220;Let you be rejoicing now,&#8221; says the Jew, &#8220;for it is near that lady you are this day. She comes down to a stream is convenient to this place, and six waiting maids along with her, bringing a rod and line for to fish. And it is always at the one hour she is in it.&#8221;
+</p><p>Well, M&#8217;Carthy was lepping wild with delight to hear tell of the lady.
+</p><p>&#8220;Let you do all I&#8217;m saying,&#8221; the Jew advises him. &#8220;I&#8217;ll provide you with the best of fishing tackle, and do you go down to the stream for to fish in it too. Whatever comes <pb id="pb54" n="54"/>to your line let you give to the lady. But say nothing might scare her at all and don&#8217;t follow after her if she turns to go home.&#8221;
+</p><p>The next day M&#8217;Carthy went out for to fish, not a long was he at the stream before the lady came down and the six waiting maids along with her. Sure enough she was the picture of the statue, and she had the loveliest golden hair was ever seen.
+</p><p>M&#8217;Carthy had the luck to catch a noble trout, and he took it off the hook, rolled it in leaves and brought it to the lady, according to the advice of the Jew. She was pleased to accept the gift of it, but didn&#8217;t she turn home at once and the six waiting maids along with her. When she went into her own house she took the fish to her father.
+</p><p>&#8220;There was a noble person at the stream this day,&#8221; she says, &#8220;and he made me a present of the trout.&#8221;
+</p><p>Next morning M&#8217;Carthy went to fish again, and he seen the lady coming and her six waiting maids walking behind her. He caught a splendid fine trout and brought it over to her; with that she turned home at once.
+</p><p>&#8220;Father,&#8221; says she, when she went in, <pb id="pb55" n="55"/>&#8220;the gentleman is after giving me a fish is bigger and better nor the one I brought back yesterday. If the like happens at the next time I go to the stream I will be inviting the noble person to partake of refreshment in this place.&#8221;
+</p><p>&#8220;Let you do as best pleases yourself,&#8221; says her father.
+</p><p>Well, sure enough, M&#8217;Carthy got the biggest trout of all the third time. The lady was in the height of humour, and she asked would he go up to the house with her that day. She walked with M&#8217;Carthy beside her, and the six waiting maids behind them. They conversed very pleasantly together, and at last he found courage for to tell her of how he travelled the world to seek no person less than herself.
+</p><p>&#8220;I&#8217;m fearing you&#8217;ll need to set out on a second journey, the way you will be coming in with some other one,&#8221; says she. &#8220;I have an old father is after refusing two score of suitors were asking me off him. I do be thinking I&#8217;ll not get joining the world at all, unless a king would be persuading himself of the advancement is in having a son-in-law wearing a golden crown upon his <pb id="pb56" n="56"/>head. The whole time it is great freedom I have, and I walking where it pleases me with six waiting maids along with me. The old man has a notion they&#8217;d inform him if I was up to any diversion, but that is not the way of it at all.&#8221;
+</p><p>&#8220;It is funning you are, surely,&#8221; says M&#8217;Carthy. &#8220;If himself is that uneasy about you how would it be possible you&#8217;d bring me to the house to be speaking with him?&#8221;
+</p><p>&#8220;He is a kindly man and reasonable,&#8221; says she, &#8220;and it is a good reception you&#8217;ll be getting. Only let you not be speaking of marriage with me, for he cannot endure to hear tell of the like.&#8221;
+</p><p>Well, the old man made M&#8217;Carthy welcome, and he had no suspicion the two were in notion of other. But didn&#8217;t they arrange all <corr sic="unbeknownt">unbeknownst</corr> to him, and plan out an elopement.
+</p><p>M&#8217;Carthy went back to the Jew, and he told him all. &#8220;But,&#8221; says he, &#8220;I am after spending my whole great fortune of money travelling the territory of the world. I must be finding a good situation the way I&#8217;ll make suitable provision for herself.&#8221;
+</p><p>&#8220;Don&#8217;t be in the least distress,&#8221; says the <pb id="pb57" n="57"/>Jew. &#8220;I did not befriend you this far to be leaving you in a bad case at the latter end. I&#8217;ll oblige you with the loan of what money will start you in a fine place. You will be making repayment at the end of three years when you have made your profit on the business.&#8221;
+</p><p>The young gentleman accepted the offer, and he fair wild with delight. Moreover, the Jew gave himself and the lady grand assistance at the elopement, the way they got safe out of it and escaped from her father was raging in pursuit.
+</p><p>M&#8217;Carthy was rejoicing surely, and he married to a wife was the picture of the statue. Herself was in the best of humour too, for it was small delight she had in her own place, roaming the fields or stopping within and six waiting maids along with her. A fine, handsome husband was the right company for her like. They bought a lovely house and farm of land with the money was lent by the Jew; and they fixed all the grandest ever was seen. After a while M&#8217;Carthy got a good commission to be an officer, the way nothing more in the world was needful to their happiness.
+
+<pb id="pb58" n="58"/></p></div2><div2 n="II" type="Section"><head>II</head><p>M&#8217;Carthy and his lady had a fine life of it, they lacking for no comfort or splendour at all. The officer&#8217;s commission he had, brought himself over to England from time to time, and the lady M&#8217;Carthy would mind all until he was home. He saved up what money was superfluous, and all was gathered to repay the loan to the Jew only for a few pounds.
+</p><p>Well it happened that M&#8217;Carthy went to England, and there he fell in with a droll sort of a man was the best of company. They played cards together and they drank a great power of wine. In the latter end a dispute came about between them, for the both claimed to have the best woman.
+</p><p>&#8220;I have a lady beyond in Ireland,&#8221; says M&#8217;Carthy, &#8220;and she is an ornament to the roads when she is passing along. But no person gets seeing her these times and that is a big misfortune to the world.&#8221;
+</p><p>&#8220;What&#8217;s the cause?&#8221; asks the Englishman.
+</p><p>&#8220;I&#8217;d have a grief on me to think another man might be looking on her and I not <pb id="pb59" n="59"/>standing by,&#8221; says M&#8217;Carthy. &#8220;So she gives me that satisfaction on her promised word: all the time I do be away she never quits the house, and no man body is allowed within.&#8221;
+</p><p>The Englishman let a great laugh out of him at the words.
+</p><p>&#8220;You are simple enough!&#8221; says he. &#8220;Don&#8217;t you know rightly when you are not in it herself will be feasting and entertaining and going on with every diversion?&#8221;
+</p><p>M&#8217;Carthy was raging at the impertinence of him, and he offered for to fight.
+</p><p>&#8220;What would that be proving?&#8221; says the Englishman. &#8220;Let you make a powerful big bet with myself that I will not be able for to bring you a token from your lady and a full description of her appearance.&#8221;
+</p><p>&#8220;I&#8217;ll be winning the money off you, surely!&#8221; says M&#8217;Carthy.
+</p><p>&#8220;Not at all,&#8221; says the Englishman. &#8220;I&#8217;m not in the least uneasy about it, for I&#8217;m full sure it&#8217;s the truth I&#8217;m after speaking of how she does be playing herself in your absence.&#8221;
+</p><p>&#8220;You&#8217;ll find me in this place and you coming back,&#8221; says M&#8217;Carthy. &#8220;Let you be prepared with the money to have along with you.&#8221;
+<pb id="pb60" n="60"/></p><p>The Englishman took ship to Ireland, and he came to the house of the lady M&#8217;Carthy. Herself was in the kitchen making a cake, and she seen the man walking up to the door. Away she run to the parlour, and in the hurry she forgot the lovely pearl ring she took off her finger when she began at the cooking. Well, he found the door standing open, and he seen the ring on the kitchen table. It was easy knowing it was no common article would be in the possession of any one but the mistress of the house. What did the lad do, only slip in and put it in his pocket. With that the waiting maid came and asked his business, the lady M&#8217;Carthy was after sending her down.
+</p><p>&#8220;Oh, no business at all,&#8221; says he. &#8220;But I am weary travelling and I thought I might rest in this place.&#8221;
+</p><p>He began for to flatter the girl and to offer her bribes, and in the latter end he got her to speak. She told him all what the mistress of the house was like; how she had a mole under her right arm and one on her left knee. Moreover she gave him a few long golden hairs she got out of the lady&#8217;s comb.
+<pb id="pb61" n="61"/></p><p>The Englishman went back to M&#8217;Carthy, brought him the tokens, and demanded the payment of the bet. And that is the way the poor gentleman spent the money he had saved up for the Jew.
+</p><p>M&#8217;Carthy sent word to his wife that he was coming home, and for her to meet him on the ship. She put her grandest raiment upon her and started away at once. She went out to the ship and got up on the deck where she seen her husband standing. When she went over to him he never said a word at all, but he swept her aside with his arm the way she fell into the water. Then he went on shore full sure he had her drowned.
+</p><p>But there was another ship coming in, and a miller that was on her seen the lady struggling in the sea. He was an aged man, yet he ventured in after her and he saved the poor creature&#8217;s life.
+</p><p>Well, the miller was a good sort of a man and he had great compassion for herself when she told him her story. She had no knowledge of the cause of her husband being vexed with her, and she thought it hard to believe the evidence of her senses that he was after <pb id="pb62" n="62"/>striving to make away with her. The miller advised the lady M&#8217;Carthy to go on with the ship was sailing to another port, for may be if she went home after the man he would be destroying her.
+</p><p>When the ship came into harbour the news was going of a great lawsuit. The miller heard all, and he brought word to the lady that M&#8217;Carthy was in danger of death.
+</p><p>&#8220;There are three charges against him,&#8221; says the miller. &#8220;Your father has him impeached for stealing you away and you not wishful to be with him: that is the first crime.&#8221;
+</p><p>&#8220;That is a false charge,&#8221; says she, &#8220;for I helped for to plan the whole elopement. My father is surely saying all in good faith, but it is a lie the whole time.&#8221;
+</p><p>&#8220;A Jew has him accused for a sum of money was borrowed, and it due for repayment: that is the second crime,&#8221; says the miller.
+</p><p>&#8220;The money was all gathered up for to pay the debt,&#8221; says the lady. &#8220;Where can it be if M&#8217;Carthy will not produce it?&#8221;
+</p><p>&#8220;The law has him committed for the murder of yourself: and that is the third crime,&#8221; says the miller.
+<pb id="pb63" n="63"/></p><p>&#8220;And a false charge too, seeing you saved me in that ill hour. I am thinking I&#8217;d do well to be giving evidence in court of law, for it&#8217;s maybe an inglorious death they&#8217;ll be giving him,&#8221; says she.
+</p><p>&#8220;Isn&#8217;t that what he laid out for yourself?&#8221; asks the miller.
+</p><p>&#8220;It is surely, whatever madness came to him. But I have a good wish for him the whole time.&#8221;
+</p><p>&#8220;If that is the way of it we had best be setting out,&#8221; says he.
+</p><p>The lady and the miller travelled overland, it being a shorter journey nor the one they were after coming by sea. When they got to the court of law wasn&#8217;t the judge after condemning M&#8217;Carthy; and it was little the poor gentleman cared for the sentence of death was passed on him.
+</p><p>&#8220;My life is bitter and poisoned on me,&#8221; says he, &#8220;maybe the grave is the best place.&#8221;
+</p><p>With that the lady M&#8217;Carthy stood up in the court and gave out that she had not been destroyed at all, for the miller saved her from the sea.
+</p><p>They began the whole trial over again, and herself told how she planned the elopement, <pb id="pb64" n="64"/>and her father had no case at all. She could not tell why M&#8217;Carthy was wishful to destroy her, and he had kept all to himself at the first trial. But by degrees all was brought to light: the villainy of the Englishman and the deceit was practised on them by him and the servant girl.
+</p><p>It was decreed that the money was to be restored by that villain, and the Jew was to get his payment out of it.
+</p><p>The lady M&#8217;Carthy&#8217;s father was in such rejoicement to see his daughter and she alive, that he forgave herself and the husband for the elopement. Didn&#8217;t the three of them go away home together and they the happiest people were ever heard tell of in the world.
+
+
+
+<pb id="pb65" n="65"/></p></div2></div1><div1 id="ch7" n="VII" type="Chapter"><head type="label">VII</head><head>NALLAGH&#8217;S CHILD</head><pb id="pb67" n="67"/><p>In the ancient days there were a power of the Good People travelling the land of Breffny. It was easy knowing they were middling proud and conceity in themselves, for they rode upon what appeared to be horses and had music with them, no less! Children were changed by the fairies too, and no matter what way they were reared the like never grew to be right things.
+</p><p>There was once a man the name of Nallagh, lived in a tidy little place beyond the river. The wife and himself had one child, a gosoon, that could never be learned to speak, nor walk, nor stand upright, nor evenly to crawl upon the floor. The whole time the creature had all his makes and shapes <pb id="pb68" n="68"/>natural and good only for a powerful great head was on him.
+</p><p>The mother had her own times minding the youngster. Evenly when he was right big she&#8217;d be lifting him out of the bed, at the morning of the day, and fixing him up in a chair. There he&#8217;d sit, watching the fire until the fall of night, seemingly contented and in the best of humour. He had great observation for all that would be doing in the place, and if the least thing went astray he&#8217;d have an odious cor on him. The fire was his whole delight, when a turf fell and the sparks flew he&#8217;d open his mouth until you&#8217;d swear he was going to let a crow out of him. But never a sound came at all.
+</p><p>It happened one time that Nallagh and the wife went to market, leaving the servant boy and servant girl to mind the place.
+</p><p>&#8220;Let you keep up a good fire for the youngster, the way he will not be lonesome, and he looking on the glowing turf is his whole delight. Let you attend to your business the same as if myself was standing by to bid you do all things particular and tasty,&#8221; says the mistress, and she going out at the door.
+<pb id="pb69" n="69"/></p><p>Not a long were the two by their lone before they quit working and began for to play themselves through the kitchen.
+</p><p>Says the servant boy: &#8220;We&#8217;d do well to be making a little feast, considering herself is not in it, and the wee coley but a silent creature will not be clashing on us at all.&#8221;
+</p><p>With that they brought the best of butter, cream and the like from the dairy, and the girl mixed all in a meskin for to make a butter cake. They built the fire with turf enough to roast the dinner of a giant, set the pot-hooks in the ears of the pan and let down the crook for to hang it on. &#8220;With the help of the Living Powers, that&#8217;ll be the luscious bit,&#8221; says the servant girl, putting down the batter for to bake.
+</p><p>The whole time they were at their diversions Nallagh&#8217;s child never quit watching the pair. Maybe it&#8217;s in expectation he was of getting his taste of the feast.
+</p><p>The butter cake was doing nicely, turning a grand colour and a lovely smell rising off it. The two heroes were in the best of humour, chatting other and funning, when all of a sudden the servant boy chanced to look out over the half door. &#8220;I declare <pb id="pb70" n="70"/>to man, we&#8217;re destroyed entirely,&#8221; says he. &#8220;Himself and the mistress are without!&#8221;
+</p><p>Sure enough it was Nallagh and the wife were after delaying in the market but a short space only. The girl, hearing tell of them coming in on her sooner nor they were expected, had the wit to whip the butter cake off the fire, and she slipped it in under the chair where the child was all times sitting.
+</p><p>&#8220;It&#8217;s the queer old cor he&#8217;s putting on his countenance,&#8221; says she. &#8220;But what about it, considering he is unable for to clash on us!&#8221;
+</p><p>With that the father and mother came into the kitchen. And the four near fell dead with wonderment and fear, for when he seen the parents the wee lad cried out:
+</p><p>&#8220;Hot, hot under my chair!&#8221;
+</p><p>The servants were in odious dread, full sure they&#8217;d be found out and hunted from the place. For the butter cake was steaming mad from the fire, and the child never quit shouting:
+</p><p>&#8220;Hot, hot under my chair!&#8221;
+</p><p>He didn&#8217;t let another word out of him but only the one thing, saying it maybe a hundred times after other:
+</p><p>&#8220;Hot, hot under my chair.&#8221;
+</p><p>Well, if he was to say it a hundred times, <pb id="pb71" n="71"/>or a thousand itself, Nallagh and the wife could not know what in under the shining Heaven he was striving for to tell. They were all of a tremblement with the wonder of the speech coming to him, and they never thought to consider was there sense in the words at all. It was a great miracle, surely, to hear the creature that never made a sound before, and he roaring out:
+</p><p>&#8220;Hot, hot under my chair!&#8221;
+</p><p>The old people were that put about they never thought to look round the place to see was anything astray; and I promise you the two heroes didn&#8217;t ask to clash on themselves.
+</p><p>The whole house was left through other until the fall of night, and every person in it was weary to the world with the dread and surprise was on them. After dark the mother puts the son to bed, fixing him up right comfortable. But it was not a sweet rest was laid out for the people of that house.
+</p><p>In the darkness of the black midnight, a powerful great storm shook the place. It was like as if the four winds of Heaven were striving together, and they horrid vexed with one another. There were strange noises in it too, music and shouting, the way it was <pb id="pb72" n="72"/>easy knowing the Good People were out playing themselves, or maybe disputing in a war.
+</p><p>Thinking the child might be scared at the commotion, herself took a light in her hand and went over to his bed.
+</p><p>&#8220;Is all well with you, sonny?&#8221; says she, for she had a fashion of speaking with him, evenly if it was no answers he&#8217;d give.
+</p><p>But the little fellow was not in it at all, he was away travelling the world with the Fairy horsemen were after coming for him.
+</p><p>The whole disturbance died out as speedy and sudden as it came. The music dwined in the far distance and the wind was still as the dawn of a summer&#8217;s day. Sure it was no right tempest at all but an old furl blast the Good People had out for their diversion.
+</p><p>The child was never restored to Nallagh and the wife. The fairies left them in peace from that out; they never heard the music on the distant hills, nor the regiments of horsemen passing by. The whole time it was lonesome they&#8217;d be, and they looking on the empty chair where the strange child delighted to sit silent, watching the turf was glowing red.
+
+
+<pb id="pb73" n="73"/></p></div1><div1 id="ch8" n="VIII" type="Chapter"><head type="label">VIII</head><head>THE ENCHANTED HARE</head><pb id="pb75" n="75"/><p>There was a strong farmer one time and he had nine beautiful cows grazing on the best of land. Surely that was a great prosperity, and you&#8217;d be thinking him the richest man in all the countryside. But it was little milk he was getting from his nine lovely cows, and no butter from the milk. They&#8217;d be churning in that house for three hours or maybe for five hours of a morning, and at the end of all a few wee grains of butter, the dead spit of spiders&#8217; eggs, would be floating on the top of the milk. Evenly that much did not remain to it, for when herself ran the strainer in under them they melted from the churn.
+</p><p>There were great confabulations held about the loss of the yield, but the strength <pb id="pb76" n="76"/>of the spoken word was powerless to restore what was gone. Herself allowed that her man be to have the evil eye, and it was overlooking his own cattle he was by walking through them and he fasting at the dawn of day. The notion didn&#8217;t please him too well, indeed he was horrid vexed at her for saying the like, but he went no more among the cows until after his breakfast time. Sure that done no good at all&#8212;it was less and less milk came in each day. And butter going a lovely price in the market, to leave it a worse annoyance to have none for to sell.
+</p><p>The man of the house kept a tongue hound that was odious wise. The two walked the cattle together, and it happened one day that they came on a hare was running with the nine cows through the field. The hound gave tongue and away with him after the hare, she making a great offer to escape.
+</p><p>&#8220;Maybe there is something in it,&#8221; says the man to himself. &#8220;I have heard my old grandfather tell that hares be&#8217;s enchanted people; let it be true or no, I doubt they&#8217;re not right things in any case.&#8221;
+</p><p>With that he set out for to follow his <pb id="pb77" n="77"/>tongue hound, and the hunt went over the ditches and through the quick hedges and down by the lake.
+</p><p>&#8220;Begob it&#8217;s odious weighty I am to be diverting myself like a little gosoon,&#8221; says the man. And indeed he was a big, hearty farmer was leaving powerful gaps behind him where he burst through the hedges.
+</p><p>There was a small, wee house up an old laneway, and that was where the hunt headed for. The hare came in on the street not a yard in front of the tongue hound, and she made a lep for to get into the cabin by a hole on the wall convenient to the door. The hound got a grip of her and she rising from the ground. But the farmer was coming up close behind them and didn&#8217;t he let a great crow out of him.
+</p><p>&#8220;Hold your hold, my bully boy! Hold your hold!&#8221; The tongue hound turned at the voice of the master calling, and the hare contrived for to slip from between his teeth. One spring brought her in on the hole in the wall, but she splashed it with blood as she passed, and there was blood on the mouth of the hound.
+</p><p>The man came up, cursing himself for <pb id="pb78" n="78"/>spoiling the diversion, but he was well determined to follow on. He took the coat off his back and he stuffed it into the opening the way the hare had no chance to get out where she was after entering, then he walked round the house for to see was there any means of escape for what was within. There wasn&#8217;t evenly a space where a fly might contrive to slip through, and himself was satisfied the hunt was shaping well.
+</p><p>He went to the door, and it was there the tongue hound went wild to be making an entry, but a lock and a chain were upon it. The farmer took up a stone and he broke all before him to get in after the hare they followed so far.
+</p><p>&#8220;The old house is empty this long time,&#8221; says he, &#8220;and evenly if I be to repair the destruction I make&#8212;sure what is the price of a chain and a lock to a fine, warm man like myself!&#8221;
+</p><p>With that he pushed into the kitchen, and there was neither sight nor sign of a hare to be found, but an old woman lay in a corner and she bleeding.
+</p><p>The tongue hound gave the mournfullest whine and he juked to his master&#8217;s feet, it <pb id="pb79" n="79"/>was easy knowing the beast was in odious dread. The farmer gave a sort of a groan and he turned for to go away home.
+</p><p>&#8220;It&#8217;s a queer old diversion I&#8217;m after enjoying,&#8221; says he. &#8220;Surely there&#8217;s not a many in the world do be hunting hares through the fields and catching old women are bleeding to death.&#8221;
+</p><p>When he came to his own place the wife ran out of the house.
+</p><p>&#8220;Will you look at the gallons of beautiful milk the cows are after giving this day,&#8221; says she, pulling him in on the door.
+</p><p>Sure enough from that out there was a great plenty of milk and a right yield of butter on the churn.
+
+
+
+<pb id="pb81" n="81"/></p></div1><div1 id="ch9" n="IX" type="Chapter"><head type="label">IX</head><head>THE BRIDGE OF THE KIST</head><pb id="pb83" n="83"/><p>There was once a man the name of Michael Hugh, and he was tormented with dreams of a kist was buried in under a bridge in England. For awhile he took no heed to the visions were with him in the stillness of the night, but at long last the notion grew in his mind that he be to visit that place and find out was there anything in it.
+</p><p>&#8220;I could make right use of a treasure,&#8221; thinks he to himself. &#8220;For &#8217;tis heart scalded I am with dwelling in poverty, and a great weariness is on me from toiling for a miserable wage.&#8221; Then he bethought of the foolishness of making the journey if all turned out a deceit.
+</p><p>&#8220;Sure I&#8217;ll be rid of belief in the dreams <pb id="pb84" n="84"/>are driving me daft with their grandeur and perseverance,&#8221; says he. &#8220;Evenly failure will bring a sort of satisfaction for I&#8217;ll get fooling whatever spirit does be bringing the vision upon me.&#8221;
+</p><p>So my brave Michael Hugh took an ash plant in his hand, and away with him oversea to England to discover the bridge of the kist.
+</p><p>He was a twelvemonth travelling and rambling with no success to rise his heart, and he began for to consider he had better return to his own place. But just as he was making ready to turn didn&#8217;t he chance on a strong flowing river, and the sight near left his eyes when he found it was spanned by the bridge he was after dreaming of.
+</p><p>Well Michael Hugh went over and he looked down on the black depth of water was flowing in under the arch.
+</p><p>&#8220;It&#8217;ll be a hard thing surely to be digging for a kist in that place,&#8221; says he. &#8220;I&#8217;m thinking a man would find a sore death and no treasure at all if he lepped into the flood. But maybe it&#8217;s laid out for me to gather my fortune here, and some person may come for to give me instruction.&#8221;
+<pb id="pb85" n="85"/></p><p>With that he walked up and down over the bridge, hoping for further advice since he could not contrive a wisdom for his use. There was a house convenient to the river, and after awhile a man came from it.
+</p><p>&#8220;Are you waiting on any person in this place?&#8221; says he to Michael Hugh. &#8220;It&#8217;s bitter weather to be abroad and you be to be as hardy as a wild duck to endure the cold blast on the bridge.&#8221;
+</p><p>&#8220;I&#8217;m hardy surely,&#8221; Michael Hugh makes his answer. &#8220;But &#8217;tis no easy matter to tell if I&#8217;m waiting on any person.&#8221;
+</p><p>&#8220;You&#8217;re funning me,&#8221; says the Englishman. &#8220;How would you be abroad without reason, and you having a beautiful wise countenance on you?&#8221;
+</p><p>With that Michael Hugh told him the story of the dreams that brought him from Ireland, and how he was expectant of a sign to instruct him to come at the kist. The Englishman let a great laugh.
+</p><p>&#8220;You&#8217;re a simple fellow,&#8221; says he. &#8220;Let you give up heeding the like of visions and ghosts, for there is madness in the same and no pure reason at all. There&#8217;s few has more nor better knowledge than myself of how <pb id="pb86" n="86"/>they be striving to entice us from our work, but I&#8217;m a reasonable man and I never gave in to them yet.&#8221;
+</p><p>&#8220;Might I make so free as to ask,&#8221; says Michael Hugh, &#8220;what sort of a vision are you after resisting?&#8221;
+</p><p>&#8220;I&#8217;ll tell you and welcome,&#8221; says the Englishman. &#8220;There isn&#8217;t a night of my life but I hear a voice calling: &#8216;Away with you to Ireland, and seek out a man the name of Michael Hugh. There is treasure buried in under a lone bush in his garden, and that is in Breffny of Connacht.&#8217;&#8221;
+</p><p>The poor Irishman was near demented with joy at the words, for he understood he was brought all that journey to learn of gold was a stone&#8217;s throw from his own little cabin door.
+</p><p>But he was a conny sort of a person, and he never let on to the other that Michael Hugh was the name of him, nor that he came from Breffny of Connacht.
+</p><p>The Englishman invited him into his house for to rest there that night, and he didn&#8217;t spare his advice that dreams were a folly and sin.
+</p><p>&#8220;You have me convinced of the meaning <pb id="pb87" n="87"/>of my visions,&#8221; says Michael Hugh. &#8220;And what&#8217;s more I&#8217;ll go home as you bid me.&#8221;
+</p><p>Next morning he started out, and he made great haste with the desire was on him to get digging the gold.
+</p><p>When he came to his own place in Connacht he made straight for a loy and then for the lone bush. Not a long was he digging before he hoked out a precious crock full of treasure, and he carried it into the house.
+</p><p>There was a piece of a flag stone lying on top of the gold, and there was a writing cut into it. What might be the meaning of that Michael Hugh had no notion, for the words were not Gaelic nor English at all.
+</p><p>It happened one evening that a poor scholar came in for to make his cailee.
+</p><p>&#8220;Can you read me that inscription, mister?&#8221; asks Michael Hugh, bringing out the flag.
+</p><p>&#8220;Aye surely,&#8221; says the poor scholar. &#8220;That is a Latin writing, and I am well learned in the same.&#8221;
+</p><p>&#8220;What meaning is in it?&#8221; asks the other.
+</p><p>&#8220;&#8216;The same at the far side,&#8217;&#8221; says the scholar. &#8220;And that is a droll saying surely when it gives no information beyond.&#8221;
+<pb id="pb88" n="88"/></p><p>&#8220;Maybe it will serve my turn, mister!&#8221; says Michael Hugh, in the best of humour.
+</p><p>After the scholar was gone on his way, didn&#8217;t himself take the loy and out to the garden. He began for to dig at the far side of the lone bush, and sure enough he found a second beautiful kist the dead spit of the first.
+</p><p>It was great prosperity he enjoyed from that out. And he bought the grandest of raiment, the way the neighbours began for to call him Michael Hughie the Cock.
+
+
+
+<pb id="pb89" n="89"/></p></div1><div1 id="ch10" n="X" type="Chapter"><head type="label">X</head><head>THE CHILD AND THE FIDDLE</head><pb id="pb91" n="91"/><p>There was a woman one time, and she had the fretfullest child in all Ireland. He lay in the cradle and lamented from morning to night and from dark to the dawn of day. There was no prosperity nor comfort in that house from he came to it. All things went astray within in the kitchen and without upon the farm: the cattle fell sick, the potatoes took a blight, there was not a taste of butter on the churn, and evenly the cat began for to dwine and dwine away. But of all the misfortunes that come the woefullest was the continual strife between the man and woman of the house, and they a couple that were horrid fond aforetime.
+</p><p>It happened when the child was about <pb id="pb92" n="92"/>eighteen months of age that a strange man was hired to work on the farm. Surely he&#8217;d never have ventured into the place if he had heard tell of the ill luck was in it, but he was from distant parts and didn&#8217;t know a heth.
+</p><p>One day he chanced to be in from the work a while before the master of the house, and herself was gone to the spring for water. The hired man sat down by the kitchen fire, taking no heed of the child was watching him from the cradle. The little fellow quit his lamenting; he sat up straight, with a countenance on him like a wise old man.
+</p><p>&#8220;I will be playing you a tune on the fiddle, for I&#8217;m thinking &#8217;tis fond of the music you are,&#8221; says he.
+</p><p>The man near fell into the fire with wonderment to hear the old-fashioned talk. He didn&#8217;t say one word in answer, but he waited to see what would be coming next.
+</p><p>The small weak infant pulled a fiddle out from under the pillow of the cradle, and he began for to play the loveliest music was ever heard in this world. He had reels and jigs, songs and sets; merry tunes would rise the heart of man and mournful tunes would fill the mind with grief.
+<pb id="pb93" n="93"/></p><p>The man sat listening, and he was all put through other, thinking the child was no right thing.
+</p><p>After a time the little lad quit playing, he put back the fiddle where he took it from and began at his old whimpering again. Herself came in at the door with a bucket of water in her hand. Well the man walked out and he called her after him.
+</p><p>&#8220;That is a strange child you have, mistress,&#8221; says he.
+</p><p>&#8220;A strange child, surely, and a sorrowful,&#8221; she makes answer. &#8220;It is tormented with his roaring you are, no person could be enduring it continually.&#8221;
+</p><p>&#8220;Did ever he play on the fiddle in your hearing?&#8221; asks the man.
+</p><p>&#8220;Is it raving you are?&#8221; says she.
+</p><p>&#8220;I am not, mistress,&#8221; he answers. &#8220;He is after giving me the best of entertainment with reels and marches and jigs.&#8221;
+</p><p>&#8220;Let you quit funning me!&#8221; says she, getting vexed.
+</p><p>&#8220;I see you are doubting my words,&#8221; he replies. &#8220;Do you stand here without where he&#8217;ll not be looking on you at all. I&#8217;ll go <pb id="pb94" n="94"/>into the kitchen, and maybe he&#8217;ll bring out the fiddle again.&#8221;
+</p><p>With that he went in, leaving herself posted convenient to the window.
+</p><p>Says he to the child, &#8220;I&#8217;m thinking there&#8217;s not above a score of fiddlers in all Ireland having better knowledge of music nor yourself. Sure that is a great wonder and you but an innocent little thing.&#8221;
+</p><p>&#8220;Maybe it&#8217;s not that innocent I am,&#8221; says the child. &#8220;And let me tell you there isn&#8217;t one fiddler itself to be my equal in the land.&#8221;
+</p><p>&#8220;You&#8217;re boasting, you bold wee coley,&#8221; says the man.
+</p><p>The child sat up in a great rage, pulled the fiddle from under the pillow and began for to play a tune was grander nor the lot he gave first.
+</p><p>The man went out to herself.
+</p><p>&#8220;Are you satisfied now?&#8221; he asks.
+</p><p>&#8220;My heart beats time to his reels,&#8221; says she. &#8220;Run down to the field and send the master to this place that he may hear him too.&#8221;
+</p><p>The man of the house came up in a terrible temper.
+</p><p>&#8220;If it&#8217;s lies you are telling me, I&#8217;ll brain the <pb id="pb95" n="95"/>pair of you with the loy,&#8221; says he, when he heard the news of the fiddle.
+</p><p>&#8220;Put your ear to the window it&#8217;s soft he is playing now,&#8221; says his wife.
+</p><p>But the words weren&#8217;t out of her mouth before a blast of loud music was heard. Himself ran in on the door, and he seen the gosoon sitting up playing tunes.
+</p><p>&#8220;Let you be off out of this,&#8221; says he, &#8220;or I&#8217;ll throw you at the back of the fire, for you are no right thing at all.&#8221;
+</p><p>With that the little fellow made a powerful great lep out of the cradle, across the floor and away with him out over the fields.
+</p><p>But he left his fiddle behind, and the master of the house threw it down on the burning turf. And that was no true fiddle at all, only a piece of an old bog stick was rotten with age.
+
+
+<pb id="pb97" n="97"/></p></div1><div1 id="ch11" n="XI" type="Chapter"><head type="label">XI</head><head>THE CUTTING OF THE TREE</head><pb id="pb99" n="99"/><p>There was a wild sort of a lad the name of Francis Pat, and he was a great warrant to be entertaining the people with his airy talk. He was the whole go in every spree and join was held in the countryside; and the neighbours all had a fine welcome when he&#8217;d come to make his cailee.
+</p><p>He joined the world when he was about thirty years of age, and he got a fine sensible woman with a nice little handful of money. Herself didn&#8217;t care to be rambling at all, and she&#8217;d sit with her stitching or knitting when he went out after dark.
+</p><p>It chanced one time, not a long from they were married, that Francis Pat went to a raffle was held in the next townland. When <pb id="pb100" n="100"/>the company set out for to go away home, in the black darkness of the night, every person in it was afraid to pass down by the fort.
+</p><p>&#8220;What is on you at all?&#8221; says Francis Pat. &#8220;I think scorn on the lot of you are in dread of the Good People.&#8221;
+</p><p>&#8220;God be with them&#8212;and their faces from us, their backs to us, the way they&#8217;re good friends,&#8221; says an old man. &#8220;I have great experience to know that it&#8217;s a danger to evenly make fun in speech of the like.&#8221;
+</p><p>&#8220;Away with you by the long hard road,&#8221; says Francis Pat. &#8220;&#8217;Tis I will walk my lone past the fort, and I dare the fairies to molest me.&#8221; The neighbours strove to break his intention, but he was persistent and proud.
+</p><p>When he came to the fort he seen a light, he heard voices speaking and the blows of an axe against wood.
+</p><p>&#8220;There is one more daring nor myself abroad this hour,&#8221; thinks Francis Pat. &#8220;I never heard tell of any person having audacity to interfere with the trees of the circle.&#8221;
+</p><p>Curiosity came on him to know who could it be, and he juked over to the light. He seen no sign of the men, however he peeped, but he heard the words and the blows.
+<pb id="pb101" n="101"/></p><p>&#8220;Where&#8217;ll we carry the wood?&#8221; says a voice.
+</p><p>&#8220;To the house on the hill,&#8221; says another. &#8220;We be to bring out the wife of Francis Pat, and the tree may stop there in her stead.&#8221;
+</p><p>&#8220;He&#8217;ll never know the differ,&#8221; says the first. &#8220;It&#8217;s a fine thing surely to make an image from a tree that a man couldn&#8217;t know from herself.&#8221; With that there was great laughter and cheering, but the lad didn&#8217;t wait to hear more&#8212;he sped away home to the house on the hill.
+</p><p>Not a heth did he let on to the wife about what he was after discovering, but he had a strong oath taken in his own mind that the fairies should not lift her from him.
+</p><p>He bolted the door of the kitchen, and the two went into the room. After awhile there came a cry on the street without, and it dwined away into the byre. The cows began for to stamp and strive to get free of the bails.
+</p><p>&#8220;Let you go out and see what ails the creatures,&#8221; says herself.
+</p><p>&#8220;There is nothing on them,&#8221; says he. &#8220;I&#8217;ll not leave this place till the sun rises for day.&#8221;
+<pb id="pb102" n="102"/></p><p>Then there came a powerful blast of wind, and the pigs set up the awfullest lamentation.
+</p><p>&#8220;I&#8217;m not that lazy but I&#8217;ll find out what it is,&#8221; says herself.
+</p><p>&#8220;You&#8217;ll stop where you are,&#8221; says he. &#8220;Didn&#8217;t you hear the blast going by, and every person knows that pigs see the wind?&#8221;
+</p><p>&#8220;Whatever they&#8217;re beholding this minute is a sore distress to the creatures,&#8221; she answers.
+</p><p>&#8220;Aye!&#8221; he allows. &#8220;The wind is red, and that is the cause of them crying.&#8221; There came a crash on the door of the kitchen and it blew in; the plates were dashed off the dresser, and the saucepans fell from the nails on the wall.
+</p><p>Francis Pat had to hold herself by the arm to keep her from running to gather the delf. Voices came shouting, and there was a stamping of feet through the house. The woman began for to cry and to roar, but himself kept a hold on her and nothing enticed him away.
+</p><p>At dawn the commotion died out.
+</p><p>&#8220;What was it at all?&#8221; asks herself.
+</p><p>&#8220;Sure what would it be only a wind was fit to batter the horns off the cows!&#8221; says Francis Pat.
+<pb id="pb103" n="103"/></p><p>When they went into the kitchen what did they find only the image lying on the floor. The wood was cut into the living likeness of the woman of the house, and the Good People had thrown it there in the anger of the disappointment was on them.
+</p><p>So my brave Francis Pat told his wife the whole story of the cutting of the tree.
+
+
+<pb id="pb105" n="105"/></p></div1><div1 id="ch12" n="XII" type="Chapter"><head type="label">XII</head><head>THE LITTLE SETTLEMENT</head><pb id="pb107" n="107"/><p>There was a strong farmer one time and he was the boastfullest man in all Ireland. He had a tidy, comfortable place, sure enough, but to hear him speaking you&#8217;d be thinking his house was built of silver and thatched with the purest gold.
+</p><p>Herself was a very different sort of a person, kindly and simple-hearted; she took no pleasure in making out she had more property and grandeur than another body; and she was neither envious, uncharitable, nor a clash.
+</p><p>The two had but one child, a daughter, and she was their whole delight. Bride was a beautiful white girl with a countenance on her would charm a king from his golden <pb id="pb108" n="108"/>throne to be walking the bogs with herself. The boys were flocking after her by the score, and she had but to raise her hand to draw any one of them to her side. But, being a seemly, well-reared lass, she took her diversion without any consideration of marriage at all&#8212;well satisfied her father would be making a fitting settlement for her when the time came.
+</p><p>The youth of the world will always be playing themselves and chatting together, all the while them that have right wit and a good upbringing do leave their settlement in the hands of the parents have the best understanding for the same.
+</p><p>&#8220;I&#8217;m thinking,&#8221; says himself one evening, &#8220;that it&#8217;s old and stiff I am growing. It might be a powerful advantage to take a son-in-law into the place, the way I&#8217;d get sitting in peace by the hearth, and he out in the fields attending to the management of all.&#8221;
+</p><p>&#8220;Bride is full young to be joining the world,&#8221; says his wife. &#8220;But I will not be putting any hindrance in the way of it, for maybe it&#8217;s better contented she&#8217;d be to have a fine man of her own, foreby to be looking <pb id="pb109" n="109"/>on an old pair like ourselves, and we dozing by the fire of an evening.&#8221;
+</p><p>&#8220;I&#8217;ll be making a little settlement for her, surely,&#8221; says himself.
+</p><p>The next day he gave out through the country that Bride was to be married. What with the little handful of money, the fine farm of land and the looks of the girl, the suitors were coming in plenty. There were strong farmers, small farmers, tradesmen and dealers; a cow doctor, a blacksmith, and evenly a man that travelled in tea. Himself was disgusted with all; he put out the farmers and dealers very civil and stiff, but the tea man he stoned down the road for a couple of miles.
+</p><p>The next suitor to come was a beautiful young lad the name of Shan Alec. He was a tasty worker, and he had the best of good money was left him by his da. Now if you were to seek all Ireland ten times through, I&#8217;ll go bail you wouldn&#8217;t be finding a more suitable match nor Shan Alec and Bride. The girl and her mother were fair wild with delight, but they got an odious disappointment for didn&#8217;t himself run the poor boy out of the house.
+<pb id="pb110" n="110"/></p><p>&#8220;I&#8217;m surprised at you,&#8221; says the wife. &#8220;Why couldn&#8217;t you have wit and give that decent lad an honourable reception?&#8221;
+</p><p>&#8220;Is it to give my daughter to yon country coley?&#8221; says he. &#8220;And I the warmest man in these parts.&#8221;
+</p><p>&#8220;A better match for her like isn&#8217;t walking this earth,&#8221; says the wife.
+</p><p>&#8220;Hold your whisht, woman,&#8221; says he. &#8220;I&#8217;d sooner let the devil have her than see her join the world with Shan Alec.&#8221;
+</p><p>&#8220;What is on you at all to be speaking such foolishness?&#8221; asks herself.
+</p><p>&#8220;I&#8217;d have you to know,&#8221; says he, &#8220;that I&#8217;ll have a gentleman for my son-in-law and no common person at all.&#8221;
+</p><p>&#8220;It is the raving of prosperity is on you,&#8221; says she. &#8220;And that is the worst madness out.&#8221;
+</p><p>&#8220;Speak easy,&#8221; says he, &#8220;or maybe I&#8217;ll correct you with the pot stick.&#8221;
+</p><p>With that she allowed he be to be gone daft entirely, or he&#8217;d never have such an unseemly thought as to raise his hand to a woman.
+</p><p>&#8220;Hold your whisht,&#8221; he answers. &#8220;Surely &#8217;tis both hand and foot I&#8217;ll be giving you unless you quit tongueing.&#8221;
+<pb id="pb111" n="111"/></p><p>Not a long afterwards a splendid gentleman came to the house, and he riding on a horse.
+</p><p>&#8220;I have heard tell,&#8221; says he to the farmer, &#8220;that you are seeking a suitable settlement for your daughter.&#8221;
+</p><p>&#8220;If your honour wants a wife,&#8221; says himself. &#8220;Let you be stepping in, for it&#8217;s maybe in this house you&#8217;ll find her.&#8221;
+</p><p>With that the gentleman got down off his horse, and it was an honourable reception they made him. Evenly herself was content to remember the scorn put on poor Shan Alec, when she seen the magnificent suitor was come.
+</p><p>The gentleman had a smile on his face when he heard all the boasts of the farmer.
+</p><p>&#8220;My good man,&#8221; says he, &#8220;I think scorn on your money and land, for I&#8217;d have you to know that I am a King in my own place. But that girl sitting by the hearth has a lovely white countenance on her, and her heart I am seeking for love of the same.&#8221;
+</p><p>&#8220;Oh mother,&#8221; says Bride in a whisper, &#8220;will you send him away?&#8221;
+</p><p>&#8220;Is it raving you are?&#8221; asks herself.
+</p><p>&#8220;I&#8217;d go through fire and water for my poor Shan Alec!&#8221; says Bride.
+<pb id="pb112" n="112"/></p><p>&#8220;Will you hold your whisht,&#8221; says her mother. &#8220;That is no right talk for a well-reared girl.&#8221;
+</p><p>The farmer and the gentleman made their agreement and opened the bottle of whiskey. There was to be a nice little feast for to celebrate the settlement, and the cloth was set in the parlour on account of the grandeur of the suitor and he not used to a kitchen at all.
+</p><p>When the supper was served didn&#8217;t the servant girl call the mistress out to the kitchen.
+</p><p>&#8220;Oh mam,&#8221; says she. &#8220;I couldn&#8217;t get word with you in private before. Let you hunt that lad from the place.&#8221;
+</p><p>&#8220;And why, might I ask?&#8221; says herself.
+</p><p>&#8220;Sure how would he be a right gentleman and he having a foot on him like a horse?&#8221; says the girl.
+</p><p>With that the mistress began to lament and to groan.
+</p><p>&#8220;What&#8217;ll I do! What&#8217;ll I do, and I scared useless with dread?&#8221;
+</p><p>&#8220;I&#8217;ll go in and impeach him,&#8221; says the servant girl.
+</p><p>In she went to the parlour.
+<pb id="pb113" n="113"/></p><p>&#8220;Quit off out of this,&#8221; says she. &#8220;We&#8217;ll have no horse feet in this place.&#8221;
+</p><p>The master got up to run her from the room.
+</p><p>&#8220;Look under the table at your lovely gentleman&#8217;s foot!&#8221; says she.
+</p><p>The farmer done as she bid, but he was that set in his own conceit he just answers:
+</p><p>&#8220;What harm is in a reel foot? It&#8217;s no ornament surely, but that&#8217;s all there is to it.&#8221;
+</p><p>&#8220;Many&#8217;s the reel foot I&#8217;ve laid eyes on,&#8221; she says. &#8220;But yon is the hoof of a horse.&#8221;
+</p><p>&#8220;It&#8217;s truth you are speaking,&#8221; says the gentleman. &#8220;I am the devil and no person less.&#8221;
+</p><p>&#8220;Quit off from here,&#8221; says the servant. &#8220;A decent girl, like us two, need never be fearing your like. I&#8217;d hit you a skelp with the pot stick as soon as I&#8217;d stand on a worm.&#8221;
+</p><p>&#8220;You can&#8217;t put me out,&#8221; says the devil. &#8220;For the man of the house has me promised his daughter.&#8221;
+</p><p>&#8220;There is no person living,&#8221; says Bride, &#8220;might have power on the soul of another. If my sins don&#8217;t deliver me into your hand the word of my da is no use.&#8221;
+<pb id="pb114" n="114"/></p><p>&#8220;Then I&#8217;ll be taking himself,&#8221; says the devil, making ready to go.
+</p><p>&#8220;You may wait till he&#8217;s dead,&#8221; cries the woman of the house. &#8220;He made you no offer of his bones and his flesh.&#8221;
+</p><p>&#8220;The tongues of three women would argue the devil to death,&#8221; says he, and away with him in a grey puff of smoke. The man and woman of the house began for to pray. But says Bride to the servant:
+</p><p>&#8220;Let you slip off to Shan Alec and bid him come up&#8212;for it&#8217;s maybe an honourable reception is waiting him here.&#8221;
+
+
+
+
+<pb id="pb115" n="115"/></p></div1><div1 id="ch13" n="XIII" type="Chapter"><head type="label">XIII</head><head>THE TILLAGE IN THE FORT</head><pb id="pb117" n="117"/><p>There was a man in these parts, and he thought it hard to see a square inch of ground go to loss. He had a small wee farm on the top of a windy hill, and there was a fort on the sweetest of the fields. He couldn&#8217;t pass by but he&#8217;d think of how much potatoes might be grown within in the circle. Well with the dint of consideration didn&#8217;t he finally decide for to plant it.
+</p><p>He never let on to his wife, but away out with the loy, and he made great work before the fall of night. When he came in he carried a lengthy thorn root in his hand.
+</p><p>&#8220;What are you holding?&#8221; asks herself.
+</p><p>&#8220;An old thorn I hoked out of the ground,&#8221; says he. &#8220;I brought it in for the fire.&#8221;
+<pb id="pb118" n="118"/></p><p>&#8220;Is it making gaps in the quick hedges you are?&#8221; she asks.
+</p><p>&#8220;Not at all,&#8221; says he. &#8220;I have the circle beyond rooted up for to set potatoes in it.&#8221;
+</p><p>&#8220;Is it the fort!&#8221; says she.
+</p><p>When she heard what he was after doing she began for to roar and to cry.
+</p><p>&#8220;It is destroyed we are in this ill hour,&#8221; she lamented. &#8220;The Good People will be following us surely with the black wrath of vengeance and spite. Never before did I hear of a man setting spuds in a fort.&#8221;
+</p><p>&#8220;Quit raving,&#8221; says he.
+</p><p>&#8220;Many and many&#8217;s the time I have seen them, they riding down by the hill; their fiddles and fifes I have heard, their shouts and their laughs. But I had no cause for a dread till it come on me now,&#8221; she replies.
+</p><p>With that herself took the thorn from the fire, where he was after casting it down; she left it out on the door of the house.
+</p><p>&#8220;Let their branch stop beyond on the street,&#8221; says she, &#8220;the way they will not be entering here and they seeking for to bring it away.&#8221;
+</p><p>In the black darkness of midnight there came the awfullest cry on the street, on past <pb id="pb119" n="119"/>the house and into the byre. Then a great lamentation came from the cows and the ass.
+</p><p>&#8220;The creatures are a killing this night,&#8221; says herself.
+</p><p>The man rose out of his bed and he kindled a light. He had the heart to go out to the beasts to see what ailed them at all. There was no loss on the cows nor the ass, and the cry and the shouting were gone.
+</p><p>He went back to the house, but not a long was he in before the very same trouble rose in the byre. Out with him again to make sure what was wrong, and he found not a single heth astray.
+</p><p>He was back in his bed when a third cry passed on the wind. The ass let a roar was more nor horrid lonesome, and the cows were stamping and roaring with dread. All the while there was nothing in it when the master went out.
+</p><p>There was no sound more until hard on the break of day. A laugh that was hateful to hear passed the house, and a hand struck hard on the window.
+</p><p>Himself rose early, and he opened the door. What did he see only the ass lying dead on <pb id="pb120" n="120"/>the street, and the two cows were destroyed in the byre.
+</p><p>&#8220;&#8217;Twas the fairies, surely,&#8221; says he. &#8220;And they brought this destruction upon me for hoking a hole in their farm.&#8221;
+</p><p>&#8220;It&#8217;s a powerful great price they&#8217;re after charging you for the hire of a small piece of ground,&#8221; says herself, coming out. &#8220;But the thorn stick is gone off the street where I threw it last night, and if that had remained in the house they&#8217;d have murdered ourselves.&#8221;
+
+
+<pb id="pb121" n="121"/></p></div1><div1 id="ch14" n="XIV" type="Chapter"><head type="label">XIV</head><head>THE NEW DECK OF CARDS</head><pb id="pb123" n="123"/><p>Of all the contrivances of the art and learning of man there is none more curious nor cards. They have a connection with beings are not right things at all, and it is well known that an Evil Angel can house himself for a while in a new deck of cards.
+</p><p>There was a young lad called Terry the Luck, and he a great warrant for gaining all games of skill and of chance. He was that strongly renowned the roulette men would warn him away from their boards in a fair, and the thimble trick man fled clean from the street when he come; the gosoons were in dread to toss pence with himself for the coin fell head or tail as he called.
+</p><p>Now it happened one night that Terry the <pb id="pb124" n="124"/>Luck was on his way home from the sports, and he carried a new deck of cards in his hand. He was in the best of humour for he was after winning a powerful bet on a race. Part of the gain was snug in his pocket, and the remainder had paid for the drink of his friends and himself.
+</p><p>The road to his home was lonely, for he lived in a backward townland. The river passed within sight of his door, and it spanned by a bridge was four arches long.
+</p><p>When Terry the Luck set his foot on the bridge didn&#8217;t he wheel away round and start in the wrong direction.
+</p><p>&#8220;That&#8217;s a strange thing,&#8221; says he. &#8220;Sure my legs were right steady till now.&#8221;
+</p><p>With that he went at it again, but he couldn&#8217;t succeed for to cross. He went back about twenty yards and took a run at it&#8212;that was no use either. Well any person that seen his antics that night would have died of the laughter. Back he&#8217;d go and race up to the bridge for all he was worth, but whenever his foot came upon it he&#8217;d turn like a leaf on the wind and away to where he started from. What was more nor horrid vexatious for the poor fellow was to see the light shining <pb id="pb125" n="125"/>in his own kitchen window beyond, and he not fit to get home.
+</p><p>&#8220;&#8217;Tis enchanted I am,&#8221; says he.
+</p><p>At long last he thought of the new deck of cards, and he laid them down by the roadside before he made another attempt to go home. He passed the bridge without the least hindrance, but when he went into the house he began to consider it was all a foolishness only.
+</p><p>&#8220;What use is there in laying out money for cards, and throwing them there to be rotting with damp?&#8221; says he.
+</p><p>Back he went across the river to fetch the new deck of cards. But if he was to strive till he died of exhaustion he couldn&#8217;t get over the bridge and they in his hand.
+</p><p>&#8220;I&#8217;ll lay them in under a stone until dawn,&#8221; says he. &#8220;Maybe whatever is in them will quit before then.&#8221;
+</p><p>So he settled his cards in a safe hiding hole, and away with him to his bed.
+</p><p>He rose with the early dawn for to bring out the deck. But there wasn&#8217;t a heth to be found where he stowed it away&#8212;and the earth by the stone was all burnt into ash.
+
+
+<pb id="pb127" n="127"/></p></div1><div1 id="ch15" n="XV" type="Chapter"><head type="label">XV</head><head>THE LIFTING OF A CHILD</head><pb id="pb129" n="129"/><p>There was a woman, a short while since, and she lived on a snug little farm convenient to the lough. She went to the byre for to milk, of a May morning, and no person stopped in the house only a young child in the cradle.
+</p><p>Not a long was herself without, maybe the half of an hour, and when she came in there was no appearance of any disorder or strife in the kitchen. But the poor wee child lay cold and dead in the cradle. The mother began for to roar and lament, and her heart was feeble with dread.
+</p><p>There came a knock on the door, and a neighbouring man lifted the latch and walked in. He never let on to observe the woeful <pb id="pb130" n="130"/>countenance of herself, but he says, in a hearty voice:
+</p><p>&#8220;Will you tell me how is the child?&#8221;
+</p><p>&#8220;He is after dying on us,&#8221; she answers. &#8220;And he right well this hour past.&#8221;
+</p><p>The man went over to the cradle, and he lepped three foot off the floor when he seen the wee corpse lying there.
+</p><p>&#8220;It&#8217;s the strangest thing at all,&#8221; she laments. &#8220;And what&#8217;ll I be saying to himself when he lands in from his work.&#8221;
+</p><p>&#8220;Let you be telling him,&#8221; says the man, &#8220;that the little fellow is in my house this day.&#8221;
+</p><p>&#8220;&#8217;Tis queer advice you are speaking to be bidding me utter the like of yon lie, forenenst the innocent corpse,&#8221; says herself.
+</p><p>&#8220;Not a lie in the world, mam,&#8221; he answers. &#8220;Sure I am just after leaving your child by my own kitchen fire, and he wrapped up in a shawl.&#8221;
+</p><p>With that she took a hold of the pot stick for to run him from the place&#8212;she was odious vexed to think he&#8217;d make mock of her sore lamentations.
+</p><p>&#8220;Ar&#8217;n&#8217;t you the ungrateful besom,&#8221; says he, &#8220;to go destroying a decent neighbour <pb id="pb131" n="131"/>with a pot stick, and he after saving your son from the power of the Good People?&#8221;
+</p><p>&#8220;Let you tell a straight story, or quit off from here,&#8221; she answers. &#8220;For I am heart scalded listening to your old nonsense and lies.&#8221;
+</p><p>&#8220;&#8217;Tis striving I was not to give you your death of a scare,&#8221; says he. &#8220;But the strangest thing is after coming to pass in this house. Let you sit down and have good courage, the way I&#8217;ll be telling you a rejoiceful news.&#8221;
+</p><p>With that herself brought him over a chair, dusting it clean on her apron, then she pulled up the creepy and sat down to attend to his words.
+</p><p>&#8220;Did you hear any noise of disturbance,&#8221; says he, &#8220;wherever you were?&#8221;
+</p><p>&#8220;I did not,&#8221; she answers. &#8220;And not a far was I from this place at all. I went to the byre for to milk; and no noise was in it only the cow breathing and the splash of the milk in the can.&#8221;
+</p><p>&#8220;That&#8217;s more nor horrid strange,&#8221; says he. &#8220;For I was passing down by the lough and I heard a powerful commotion up here. There was laughter and cheering, the tramp of men&#8217;s boots on the street, and horses galloping by. Thinks I to myself, &#8216;The <pb id="pb132" n="132"/>fairies are out contriving some old villainy this morning of May.&#8217; What did I do only walk up among them, and I seen no person at all. When I came to the house the poor wee child was a handing out on the window, but I could not behold the fairies were at the lifting.
+</p><p>&#8220;Well I&#8217;d have you to know I&#8217;m a brave and venturesome man, with a heart as strong as an eagle! What did I do only make my way in among the whole throng of Good People, and I standing on their feet, and pushing them off to the wall to make space for myself. I took a hold of the child for to pull him from the invisible hands were lifting him out, and, as sure as I&#8217;m sitting here, I brought him safe from the lot.
+</p><p>&#8220;There went a whole roar of annoyance from the fairies, and they mounted up on their horses and away. But I brought the little fellow to my own house for fear they&#8217;d return for him to this place.&#8221;
+</p><p>The poor mother was wild with delight to hear tell the son was alive.
+</p><p>&#8220;Let&#8217;s be going to fetch him,&#8221; says she. &#8220;And he&#8217;ll never be left in the house by his lone from this out.&#8221;
+<pb id="pb133" n="133"/></p><p>The two went down to the neighbour&#8217;s house, and sure enough the child was in it asleep by the fire.
+</p><p>The man had to carry him home, for herself was exhausted with fright.
+</p><p>&#8220;Maybe the Good People are gone up to remove what they left in the cradle,&#8221; says she.
+</p><p>But when they went into the kitchen wasn&#8217;t the old corpse in it yet.
+</p><p>&#8220;We be to bury yon article,&#8221; says herself. But the man allowed there was no need to be treating the like the same as a right thing.
+</p><p>&#8220;Throw it in on the back of the fire,&#8221; says he.
+</p><p>Herself was in dread to lay her hand on the likeness of the child. So the man lifted it out of the cradle and threw it down on the fire. And it blazed away up the chimney for a second&#8217;s time and departed in a puff of smoke.
+
+
+<pb id="pb135" n="135"/></p></div1><div1 id="ch16" n="XVI" type="Chapter"><head type="label">XVI</head><head>THE VOICE AT THE DOOR</head><pb id="pb137" n="137"/><p>There was one time a poor widow woman he name of Cathleen the Hollow, for her house was down in a dip of the ground. She had two fine beautiful sons, Shan the Hollow and Hughie Cathleen. Shan was a dancer could step on a plate and not put a break in the delf; and Hughie could sing every ballad and song was ever heard tell of at all.
+</p><p>They were wild daring lads, too, the way there was great talk of them in the countryside. And the lamentations of the youth of the world were more nor a fright when news came round to the neighbours that Hughie was dead.
+</p><p>He lay down of a Friday night, and he <pb id="pb138" n="138"/>in the best of health, on the Saturday morning the brother went to rouse him, and found him perished dead.
+</p><p>Well there was a most elegant wake, not a one in those parts but paid respect to the corpse. And there wasn&#8217;t the least suspicion but that Hughie come by his death of some natural cause.
+</p><p>It was maybe a fortnight after the burying that the sleep quit Shan the Hollow entirely. If evenly he began for to doze in his bed he&#8217;d be roused up again by a rap on the door&#8212;but when he stepped out there was no person visible there.
+</p><p>&#8220;Oh mother,&#8221; says he, &#8220;I&#8217;m thinking poor Hughie is walking the world.&#8221;
+</p><p>&#8220;He is not,&#8221; says she. &#8220;For he was a decent lad would find peace in the grave. But there is some person making free with this house, for not a day goes by but I miss some article of food.&#8221;
+</p><p>Shan let it be, but his mind was uneasy for Hugh. And not a long after he heard a voice go past in the night, and it singing a beautiful song. He rose and he went to the door.
+</p><p>&#8220;Oh Hughie,&#8221; says he, &#8220;is that your spirit travelling the earth?&#8221;
+<pb id="pb139" n="139"/></p><p>&#8220;It&#8217;s myself is walking the world, and I not buried at all,&#8221; says the voice. &#8220;The Good People have me away, and the corpse was an old image cut from bog stick that they left in my bed to deceive you.&#8221;
+</p><p>&#8220;Then it&#8217;s yourself is using the food from this house, my poor boy?&#8221; says Shan.
+</p><p>&#8220;Aye, indeed,&#8221; says the voice, &#8220;and sometimes it&#8217;s little I find. It does be hard on me to refuse the noble refreshment the fairies set out, but if I&#8217;d eat of the like I could never escape from their power. Do you tell herself to leave me a mug of sweet milk and a morsel of bread on the sill of the window, to keep me from hungering more.&#8221;
+</p><p>&#8220;You&#8217;ll have the best in the house left ready against you come,&#8221; says Shan. &#8220;But will you tell me what way am I to contrive a rescue?&#8221;
+</p><p>&#8220;It&#8217;s easy enough,&#8221; says the voice. &#8220;But I&#8217;m diverting myself with the fairies, and I&#8217;ll not be coming home for a while. They took me out oversea to America and showed me the wonders are there. Sure maybe it&#8217;s in France I&#8217;ll be at the dawning of day!&#8221;
+</p><p>&#8220;I&#8217;d liefer sit by our own fireside than travel the realms of the world with their like,&#8221; <pb id="pb140" n="140"/>says Shan. &#8220;Let you give them the slip and come home.&#8221;
+</p><p>&#8220;I seen the King&#8217;s daughter of Spain, and a Queen of the East,&#8221; says the voice. &#8220;For let me be telling you there&#8217;s few like myself with the fairies, the way they are showing me great respect.&#8221;
+</p><p>Shan gets vexed at the words and he says: &#8220;Is it boasting forenenst your own brother you are? Sure we come of a poor stock of people, and I have heard tell there are lords of the fairies.&#8221;
+</p><p>&#8220;It&#8217;s my singing has them crazed about me,&#8221; says the voice, &#8220;for they have right understanding for music and songs.&#8221;
+</p><p>&#8220;Is there any man or woman of these parts excepting yourself abroad with them now?&#8221; asks Shan.
+</p><p>&#8220;Not a one at this present. But at dark to-morrow we are going for to lift young Cassidy&#8217;s wife.&#8221;
+</p><p>Well Shan kept inquiring of Hughie when would he like to come home. At long last the lad gave out he&#8217;d be ready in three weeks from that hour.
+</p><p>&#8220;Let you come to the fort,&#8221; says he, &#8220;and meet the whole host of the fairies. We&#8217;ll <pb id="pb141" n="141"/>give them the slip at the gap.&#8221; With that the voice went away off the street, singing till the sound dwined out in the distance. But my poor Shan was that put about he couldn&#8217;t decide what to do. At the dawn of the morning he set off to visit the Priest, and he informed him every word he was after hearing. Well his Reverence couldn&#8217;t believe there was anything in it only a dream of the night.
+</p><p>&#8220;Let your Reverence go to the Cassidy&#8217;s and keep herself from their hands,&#8221; says Shan. &#8220;For the Good People are determined to lift her away.&#8221;
+</p><p>&#8220;Go home now and attend to your farm,&#8221; says the Priest. &#8220;&#8217;Tis the raving of grief is on you for the brother you lost.&#8221;
+</p><p>Still and all his Reverence set out for Cassidy&#8217;s that evening to see was anything wrong. Didn&#8217;t he find the Good People before him and they had herself brought away. &#8220;Oh if only I had come in time,&#8221; says he. &#8220;But I might be some hindrance to them yet.&#8221;
+</p><p>With that he went down to the hollow, and Shan was sitting within in the house. Says the Priest: &#8220;Let you not stir from this for the calling of voices that pass. You are <pb id="pb142" n="142"/>after informing me of an intention you have for to rescue your brother on a set and certain night. Now give me your promise to make no attempt of the sort&#8212;for it&#8217;s into the power of the fallen angels you&#8217;d go, and you&#8217;d not get him rescued at all.&#8221;
+</p><p>&#8220;I be to make an offer anyway,&#8221; says Shan.
+</p><p>&#8220;Very well,&#8221; says the Priest. &#8220;I&#8217;ll send four strong men of this parish to rope you down in your bed on that ill night.&#8221;
+</p><p>Didn&#8217;t they hold my poor Shan from his offer to bring home the brother, and surely it was well done for his own destruction was in it. But the voice came no more to the window and the bread lay uncut on the sill.
+
+
+
+<pb id="pb143" n="143"/></p></div1><div1 id="ch17" n="XVII" type="Chapter"><head type="label">XVII</head><head>THE EARL&#8217;S SON OF THE SEA</head><pb id="pb145" n="145"/><p>When the Good People fell from the Heavens above, didn&#8217;t some of them sink in the sea, and there they are dwelling this day.
+</p><p>Many and many a story is told of their diversions and how they be wrecking the ships; but the strangest account I ever heard tell was the fisherman&#8217;s daughter that met the Earl&#8217;s son of the sea.
+</p><p>She was travelling the sands by her lone, on the west coast of Ireland, and when she came near to the rocks she heard the notes of a harp. Of course she was curious to know who was out playing in that place and no dwelling near; so over she went towards the sound, and what did she come on only a beautiful yellow-haired man.
+<pb id="pb146" n="146"/></p><p>&#8220;It&#8217;s destroyed in a short space you&#8217;ll be,&#8221; she calls out, &#8220;for the tide is beginning to rise and you&#8217;ll be dashed dead on the rocks.&#8221;
+</p><p>&#8220;Do you know who I am?&#8221; says he.
+</p><p>&#8220;I do not,&#8221; she answers. &#8220;But you&#8217;re surely a stranger to these parts or you wouldn&#8217;t sit there with the waves beginning to rise.&#8221;
+</p><p>&#8220;Maybe I travelled this bay before you were born,&#8221; says he.
+</p><p>With that she let a laugh out of her.
+</p><p>&#8220;I&#8217;m thinking the two of us are about the one age,&#8221; says she. &#8220;So quit your old-fashioned talk and come on out of that till I show you the way up the cliff.&#8221;
+</p><p>&#8220;You&#8217;re a beautiful girl,&#8221; says the stranger, &#8220;and the wish is on me to please you. Climb up out of reach of the rising sea and I&#8217;ll play you a tune on the harp.&#8221;
+</p><p>Well she travelled back over the sand and up by the path to the cliff, never doubting but the stranger was following on. But when she looked down she seen him below on the rock.
+</p><p>&#8220;It is drownded you&#8217;ll be,&#8221; she calls out.
+</p><p>&#8220;Let you not be uneasy,&#8221; says he.
+</p><p>With that he began for to play on the <pb id="pb147" n="147"/>harp, and the music enchanted the fisherman&#8217;s child and the tears ran down from her eyes. When she looked again to the rock wasn&#8217;t the stranger washed from it and a big white wave curled up from the place.
+</p><p>&#8220;I&#8217;m after finding and losing a beautiful boy,&#8221; says she, and she went away home lamenting his death.
+</p><p>Not a long after she was travelling the sands, and she heard the music again. There was himself sitting up on the rock as sound as a salmon at play.
+</p><p>&#8220;I doubt you&#8217;re no right thing,&#8221; says she.
+</p><p>&#8220;Maybe not,&#8221; he allows. &#8220;But I&#8217;ll rise your heart with a tune&#8212;if it was crying I had you the last time it&#8217;s laughing I&#8217;ll see you this day.&#8221;
+</p><p>With that he played the cleverest dancing tune on the harp, and he had the fisherman&#8217;s daughter in the best of humour.
+</p><p>After a while he says, &#8220;I&#8217;m thinking you have a poor way of living in your home, for it&#8217;s hard set to earn a bit and a sup that the fishermen are in this place.&#8221;
+</p><p>&#8220;We&#8217;re miserable, surely,&#8221; she answers.
+</p><p>&#8220;I&#8217;ll be making you a great advancement,&#8221; <pb id="pb148" n="148"/>says he. &#8220;For I&#8217;d have you to know that there&#8217;s plenty of wealth in my power. Let you quit from your own friends and marry myself. It&#8217;s a beautiful castle I&#8217;ll build you, out on a rock in the ocean, and jewels and pearls for your portion to wear.&#8221;
+</p><p>&#8220;A lonesome life,&#8221; says she, &#8220;to be watching the wild birds fly over the waves, and maybe a ship passing by. Moreover you are no right thing, evenly if you have the appearance of a beautiful gentleman. It&#8217;s a poor man of these parts will join the world with myself.&#8221;
+</p><p>&#8220;Sure I&#8217;m an Earl&#8217;s son of the sea,&#8221; he allows.
+</p><p>But the grandeur didn&#8217;t tempt her at all.
+</p><p>&#8220;A sea marriage would be no marriage,&#8221; she answers, and with that she bid him good-day.
+</p><p>&#8220;Let your man never travel the sea,&#8221; he answers, &#8220;for I&#8217;ll destroy the ship from under his feet and leave him dead on a wave.&#8221;
+</p><p>He lepped down into the water and away with him from out of her sight.
+</p><p>The fisherman&#8217;s daughter never heard him out harping again, nor seen a sight of his face. <pb id="pb149" n="149"/>And after a while she forgot the queer lad entirely. Didn&#8217;t she marry a farmer inland, and it was a comfortable life they enjoyed.
+</p><p>But a notion took himself that he&#8217;d prosper more in the States, for he was greedy for gold. He took passage for the two on a great big ship, and away with them from Ireland.
+</p><p>Not a long were they at sea before a sudden furl blast met the ship, and a wave twenty times as high as a house stood up over the deck and broke down. Every person was killed dead and smashed into the wood of the ship only the fisherman&#8217;s daughter. She felt the vessel sink down from under her and she looked up and seen a beautiful castle rise up on a rock on the sea.
+</p><p>The Earl&#8217;s son came past on a wave and he lifted her up by the hair of her head for to land her out on the rock.
+</p><p>The fisherman&#8217;s daughter lived in that place for fourteen years and she lamenting the lonesome hours of each day. She seen the wild gulls flying and whales and every sort sailing the waves. She took no delight in the jewels nor the dresses were stored in that house, and the Earl&#8217;s son of the sea allowed she grew ugly and old.
+<pb id="pb150" n="150"/></p><p>It happened one day he was travelling in other parts that herself seen a ship coming down, and she waved a white flag out the window.
+</p><p>A man came out from the ship in a small little boat, and who was it only her own brother Michael.
+</p><p>&#8220;Oh sister dear,&#8221; says he, &#8220;is it sitting on a rock you are for fourteen weary years? Sure we heard tell of the loss of the vessel was bringing you out to the States.&#8221;
+</p><p>&#8220;It&#8217;s a fine castle is here,&#8221; says she. &#8220;But it&#8217;s lonesome I am for my home.&#8221;
+</p><p>&#8220;I see no more nor a rock and it green with the weed of the sea,&#8221; says Michael. &#8220;It&#8217;s on your eyes that there&#8217;s more in it, for I see nothing at all.&#8221;
+</p><p>With that she told him the whole story. And he was in dread for to bring her away lest the Earl&#8217;s son might destroy them.
+</p><p>&#8220;I&#8217;ll tell you what I&#8217;ll do,&#8221; says he. &#8220;It&#8217;s back to Ireland I&#8217;ll sail, and I&#8217;ll get an image made the down likeness of yourself. When we set that up on the rock himself will believe you are in it, and we may get away.&#8221;
+</p><p>So he rowed his wee boat to the ship and home he sailed to Ireland. He got the finest <pb id="pb151" n="151"/>image made, and it the dead spit of herself. With that in his keeping he travelled the sea till he came to the rock and his sister still sat there lamenting. But she had a red flag hung out and that was the sign they&#8217;d agreed for him not to come near. So he be to wait until she put up a white one, and then he knew that the Earl&#8217;s son was not near.
+</p><p>He got her safe to the boat, and they left the old image stuck up on the rock.
+</p><p>&#8220;There&#8217;s two little fellows like sea-monkeys he&#8217;s left to watch when he&#8217;s gone,&#8221; says herself. &#8220;But they didn&#8217;t see me slip out and they&#8217;ll never think but the statue is me. I haven&#8217;t the least fear of them bringing him word there is anything wrong, but if he returns we are lost for he won&#8217;t be that easy deceived.&#8221;
+</p><p>They made great sailing to Ireland, and the ship was coming in on the harbour the way they were sure they&#8217;d come safe. What did they see only the Earl&#8217;s son and he riding on a big white wave to catch up to them. The image was with him, and he threw it after the ship the way a hole was cleft in her side and she sank. But the fisherman&#8217;s <pb id="pb152" n="152"/>daughter, her brother, and the sailors got on shore in a boat before he came at them again.
+</p><p>They seen him from the shore, and he flittering something with his two hands. What was it only the sea-monkeys, and he threw the bits of them up on the shore. He came in himself, but they pelted him from it with stones for his power was lost on the land.
+</p><p>But not a one of that family to this present day may venture into the waves, for the Earl&#8217;s son watches out to destroy them for vengeance and spite.
+
+
+
+<pb id="pb153" n="153"/></p></div1><div1 id="ch18" n="XVIII" type="Chapter"><head type="label">XVIII</head><head>THE GIRL AND THE FAIRIES</head><pb id="pb155" n="155"/><p>There was a beautiful young girl living in these parts, and she was greatly admired by every person that seen her.
+</p><p>It happened when she was about nineteen years of age that she fainted one day on the street before the house, where she was washing the spuds for dinner. The mother and sister went out for to carry her in, and they laid her down on the bed&#8212;the poor girl never rose from it more. Maybe a week she was lingering dying, not a word ever came from her lips and she used no food at all.
+</p><p>Not a long after the burying her mother heard a rapping on the window, close upon midnight. She rose and she says, &#8220;Oh Bridget dear, is it you?&#8221;
+<pb id="pb156" n="156"/></p><p>&#8220;It is indeed, mamma,&#8221; says a voice. &#8220;Let you give me a drink of sweet milk and a small taste of bread.&#8221;
+</p><p>&#8220;I&#8217;ve heard tell of the dead were uneasy, but never of one needing food,&#8221; says the mother.
+</p><p>&#8220;The fairies have me away,&#8221; answers Bridget. &#8220;&#8217;Tis myself is living this day, and you are after giving decent burial to an old thing they left in my place.&#8221;
+</p><p>With that the poor mother brought milk and bread to the window and handed it out.
+</p><p>&#8220;Will you ever contrive to get home, my poor Bridget?&#8221; says she.
+</p><p>&#8220;Aye surely,&#8221; answers the girl, &#8220;if the men of this place are worthy their keep. Let you make inquiries among them until you find two strong daring boys are willing to attempt my rescue.&#8221;
+</p><p>She went away off the street, and the mother went back to her bed.
+</p><p>The next evening there were some of the neighbours came in, and herself gave out all she was after hearing. There were two clever lads in it and they promised for to bring the girl snug and safe to her home.
+</p><p>Not a long after Bridget came back to the <pb id="pb157" n="157"/>window to speak with the mother, so when she heard of the offer was made she says: &#8220;The Good People are going away over the moor on Wednesday night and I must journey with them. It is mounted on horses we&#8217;ll be, and tell the two lads I told them to stand by the gap and watch for the squad going through. I&#8217;ll be upon the third grey horse to go by, and let the two lads take a hold of me, one at each side. Now if they&#8217;re not full sure they&#8217;ll have courage and daring to hold their hold, let them not come near me at all. For if I pass on with the fairies they&#8217;ll kill me dead for vengeance that night.&#8221;
+</p><p>The mother promised she&#8217;d give the lads great warning to keep their hold and do all as Bridget was saying.
+</p><p>Well on the Wednesday night the venturesome lads went down to the gap of the fort field, and there they stood waiting one at each side of the pass. Not a long were they in it before the Good People began to go through. One grey horse went down beside another and a third came behind with Bridget sitting upon his back.
+</p><p>The two lads caught a hold of her, but <pb id="pb158" n="158"/>didn&#8217;t the horse let a stag lep and they lost their grip on the girl. She gave the lonesomest cry as she was carried from them, and the fairies began for to cheer and to laugh.
+</p><p>&#8220;We&#8217;ll follow the Good People on,&#8221; says one of the boys, &#8220;and maybe we&#8217;ll vanquish them yet.&#8221;
+</p><p>So the two travelled after the riders, away towards the moor. The river flows convenient to that place, and a fine bridge spans it across. It was there that the awfullest cry rose out of the throng of the fairies, and when the boys came on to the bridge they seen it all red with my poor Bridget&#8217;s blood. The horsemen were after dashing her down on the stones to her death.
+
+
+
+<pb id="pb159" n="159"/></p></div1><div1 id="ch19" n="XIX" type="Chapter"><head type="label">XIX</head><head>GOOD-NIGHT, MY BRAVE MICHAEL</head><pb id="pb161" n="161"/><p>There was a big gathering of neighbours sitting round a fire, telling stories of an evening, and some person says:
+</p><p>&#8220;There&#8217;s the strongest bolt and lock in all Ireland on the door there beyond, and it couldn&#8217;t be broken at all.&#8221;
+</p><p>With that the Good People were listening outside began for to laugh. Didn&#8217;t they whip the lock off the door and away with them through the fields.
+</p><p>Says the man of the house: &#8220;I&#8217;m thinking there&#8217;s danger abroad; let the lot of you stop here till dawn.&#8221;
+</p><p>But there was a big, venturesome man in it and he allowed he&#8217;d go home no spite of the fairies.
+<pb id="pb162" n="162"/></p><p>He started off by his lone, and he had a wet sort of field to pass through with a great shaking scraw to one side. It was an awful and dangerous place to any person not used to the like, but he knew his way by the pass.
+</p><p>He was travelling at a good speed when all on a sudden he heard the tramping of a score of horses behind him. Then they came up round himself, but he seen no person at all nor a sign of a horse or an ass.
+</p><p>&#8220;The fairies are in it,&#8221; says he.
+</p><p>With that one of them took a hold of him by the collar and turned him round on the path.
+</p><p>&#8220;Good-night, my brave Michael,&#8221; says the horsemen.
+</p><p>Then another of them took him by the shoulder and faced him away round again.
+</p><p>&#8220;Good-night, my brave Michael,&#8221; says he. Well the whole score of fairies kept turning him round until he seen the stars dropping down from the sky and his ears were deafened with a sound like the sea. And every one that took him by the shoulder would say: &#8220;Good-night, my brave Michael, good-night!&#8221;
+</p><p>The poor fellow didn&#8217;t know what in <pb id="pb163" n="163"/>under the shining Heaven was he to do. He seen they were setting him astray, but he couldn&#8217;t continue for to keep on the path, and he was in odious dread they&#8217;d furl him into the shaking scraw where he&#8217;d sink from the sight of man.
+</p><p>A sudden thought struck his mind of a saying he heard from his ma. He whipped the coat off his back and he put it on with the wrong side turned out. And then he found he was standing alone in the field, on the edge of the scraw, and no person near him at all. So he went away home without any mishap, but indeed he was trembling with dread.
+
+
+
+<pb id="pb165" n="165"/></p></div1><div1 id="ch20" n="XX" type="Chapter"><head type="label">XX</head><head>THE LAD AND THE OLD LASSIE&#8217;S SONG</head><pb id="pb167" n="167"/><p>There was a young lad living in these parts, not long since at all, and his name was Francis John.
+</p><p>It chanced of a May morning that water was scarce for the tea, the way his mother put a bucket in his hand and hunted him off to the spring.
+</p><p>Now an old lassie lived by her lone in a little wee house was built right close to the path. The door stood open that morning, and my brave Francis John looked in when he went on his way to the well. He seen the old girl sitting on a small creepy stool by the fire, with a row of clay images baking in front of the turf. Wasn&#8217;t she singing a <pb id="pb168" n="168"/>song&#8212;and a queer cracked voice was her own&#8212;every word of it came good and plain to the ears of the lad.
+</p><lg type="Group"><l>Ye that I bake before the fire,
+    </l><l>Bring me the milk from my neighbour&#8217;s byre;
+    </l><l>Gather the butter from off the churn
+    </l><l>And set it forenenst me before you burn.</l></lg><p>Francis John didn&#8217;t ask to disturb her diversions at all, so he went on his way and filled up his can at the spring. But all the road home the old lassie&#8217;s song tormented his mind, and as he came in at the door he began for to sing:
+</p><lg type="Group"><l>Ye that she bakes before the fire,
+    </l><l>Bring me the milk from the neighbour&#8217;s byre;
+    </l><l>Gather the butter from off the churn
+    </l><l>And set it forenenst me before you burn.</l></lg><p>With the power of the words coming from him didn&#8217;t the boots on his feet fill up with sweet milk, and it running out on the lace holes.
+</p><p>&#8220;Man, but that&#8217;s an enchanted song,&#8221; says he. And what did he do only step into four pounds of butter that fell on the threshold before him, for he never remarked it at all!
+
+
+<pb id="pb169" n="169"/></p></div1><div1 id="ch21" n="XXI" type="Chapter"><head type="label">XXI</head><head>THE BASKET OF EGGS</head><pb id="pb171" n="171"/><p>There was a woman one time, and she on her way to the market, counting the price of her basket of eggs.
+</p><p>&#8220;If eggs are up,&#8221; says she, &#8220;I&#8217;ll be gaining a handful of silver, and evenly if prices be down I&#8217;ll not do too badly at all for I have a weighty supply.&#8221;
+</p><p>With that she remarked a little wee boy sitting down by the hedge, he stitching away at a brogue.
+</p><p>&#8220;If I had a hold of yon lad,&#8221; says she, &#8220;I&#8217;d make him discover a treasure&#8212;for the like of him knows where gold does be hid.&#8221;
+</p><p>She juked up behind him, like a cat would be after a bird, and she caught a strong grip of his neck.
+<pb id="pb172" n="172"/></p><p>Well he let an odious screech out of him, for he was horrid surprised.
+</p><p>&#8220;I have you, my gosoon,&#8221; says she.
+</p><p>&#8220;Oh surely you have, mam,&#8221; he answers. &#8220;The strength of your thumb is destroying my thrapple this day.&#8221;
+</p><p>&#8220;Will you show me a treasure?&#8221; says she.
+</p><p>&#8220;I&#8217;d have you to know,&#8221; he replies, &#8220;that the pot of gold I could convey you in sight of is guarded by the appearance of a very strange frog.&#8221;
+</p><p>&#8220;What do I care for the creeping beasts of the world,&#8221; says she. &#8220;Worse nor a frog wouldn&#8217;t scare me at all.&#8221;
+</p><p>&#8220;You&#8217;re a terrible fine woman, mistress dear,&#8221; says the leprachaun. &#8220;I&#8217;ve travelled a power of the earth and I never came in with your equal.&#8221;
+</p><p>&#8220;Go on with your old-fashioned chat,&#8221; she replies, but she was middling well pleased all the same.
+</p><p>&#8220;I&#8217;m a small little fellow,&#8221; says he, &#8220;and I couldn&#8217;t keep up with yourself. But it&#8217;s light in the body I am, the way I&#8217;d be never a burden at all and I sitting up on the handle of the basket.&#8221;
+</p><p>&#8220;Up with you,&#8221; she answers, &#8220;for I&#8217;ll <pb id="pb173" n="173"/>soon put you down to walk by my side if you are not speaking the truth.&#8221;
+</p><p>But she didn&#8217;t find the least burden more on the basket when himself was on the handle.
+</p><p>He was a great warrant to flatter, and he had her in humour that day all the while he was watching out for a chance to escape, but she kept a hold of his ear.
+</p><p>What did he do only put his two wee hands down into the basket and he began for to bail out the eggs. She fetched him a terrible clout, but the harder she beat him the faster he threw out the eggs.
+</p><p>&#8220;Oh mam! oh mam!&#8221; says he, &#8220;what for are you skelping my head?&#8221;
+</p><p>&#8220;To make you quit breaking my eggs, you unmannerly coley,&#8221; says she.
+</p><p>&#8220;Sure it&#8217;s doing you favour I am,&#8221; he replies. &#8220;I&#8217;d have you to know when I spill an egg on the ground a well-grown spring chicken leps out.&#8221;
+</p><p>&#8220;Quit raving,&#8221; says she.
+</p><p>&#8220;If you doubt my word,&#8221; he makes answer, &#8220;let you turn and look back at the chickens are flocking along.&#8221;
+</p><p>With that she turned her head, and the <pb id="pb174" n="174"/>leprachaun slipped from her grasp. He made one spring from the basket into the hedge, and he vanished away from the place.
+</p><p>&#8220;The wee lad has fooled me entirely,&#8221; says she, &#8220;and my beautiful eggs are destroyed&#8212;but I am the finest woman he&#8217;s seen, and that is a good thing to know!&#8221;
+
+
+
+<pb id="pb175" n="175"/></p></div1><div1 id="ch22" n="XXII" type="Chapter"><head type="label">XXII</head><head>THE BROKEN BRANCH</head><pb id="pb177" n="177"/><p>There was a man in the olden time, and he owned a snug little farm.
+</p><p>What did he do, of a winter&#8217;s day, only break a great branch off a lone bush for to burn in the fire. A thorn went into his hand and it pierced it through.
+</p><p>&#8220;That was a sore jag,&#8221; says he.
+</p><p>But there was a little grey woman sitting in under the lone bush, and she let a terrible laugh.
+</p><p>There were two of the neighbours seen what occurred, and they passing down through the field. One of them ran away home, but the other, a venturesome lad, came across.
+</p><p>&#8220;What are you after doing, my poor fellow?&#8221; says he.
+<pb id="pb178" n="178"/></p><p>&#8220;I am after destroying my hand with a thorn,&#8221; says the man.
+</p><p>The neighbour allowed there was worse in it nor that.
+</p><p>&#8220;Did you hear the grey woman laugh?&#8221; he inquires.
+</p><p>&#8220;There is no woman here,&#8221; says the other.
+</p><p>&#8220;I seen her a while past, and I coming down to your side. She was sitting in under the bush, but now she is gone. When you drove the thorn through your hand she let a lamentable laugh that was worse nor a cry.&#8221;
+</p><p>The man didn&#8217;t believe it at all. But the jag in his hand festered up and he died for breaking the branch of the thorn.
+
+
+
+<pb id="pb179" n="179"/></p></div1><div1 id="ch23" n="XXIII" type="Chapter"><head type="label">XXIII</head><head>DIGGING FOR GOLD</head><pb id="pb181" n="181"/><p>In the ancient times a poor decent labouring man dreamt three nights of finding a kist was hid in the fort near his home.
+</p><p>So away there he went for to dig, and not long was he working at all when he came on the beautiful gold.
+</p><p>&#8220;In troth I am rich from this out,&#8221; he calls at the height of his voice.
+</p><p>With that the whole treasure fell down through the earth: he should not have spoken at all. Then there came a powerful great cat, and it was the guard of the kist. Now the man had the wit to take hold of the appearance before him, and let it strive never so hard it could not contrive to escape. &#8220;I&#8217;ll hold you,&#8221; says he, &#8220;till you tell me where is the gold!&#8221;
+<pb id="pb182" n="182"/></p><p>&#8220;Dig at the far side,&#8221; says a voice. But whether it came from the cat was past the man&#8217;s wit for to know.
+</p><p>Well he went over and began for to dig at the far side, and he came on a big copper pot. But no gold was in it at all.
+
+
+<pb id="pb183" n="183"/></p></div1><div1 id="ch24" n="XXIV" type="Chapter"><head type="label">XXIV</head><head>STORY OF A CHURN</head><pb id="pb185" n="185"/><p>There was a woman renowned for making the best of good butter.
+</p><p>Now it chanced in the spring that her man had three boys hired for to work at the setting of spuds. One morning they passed through the house when the churn was a making, and not one put his hand to the work nor uttered a blessing upon it.
+</p><p>Herself was horrid annoyed to think they&#8217;d be that unseemly and ignorant, yet she passed no remark of the sort. Didn&#8217;t her whole morning&#8217;s work go to loss for no yield come on the churn.
+</p><p>She was not very great with her neighbours, and the first time she chanced for to <pb id="pb186" n="186"/>speak of what happened that day was next time she seen her own mother.
+</p><p>The old woman says: &#8220;If you have one of them three lads impeached for taking the yield from the churn, let you write his name backwards on a small slip of paper and burn it in a shovel over the fire.&#8221;
+</p><p>&#8220;What good&#8217;ll that be?&#8221; asks the daughter.
+</p><p>&#8220;It will be the means of restoring the butter was lifted away,&#8221; says the mother.
+</p><p>&#8220;I doubt not&#8212;and it two months and more since the loss,&#8221; says the young woman.
+</p><p>But she brought out the paper and ink for to write down the name of the lad she impeached. She set it down backwards and burnt it over the fire.
+</p><p>&#8220;Now,&#8221; says the mother, &#8220;go out to the churn.&#8221;
+</p><p>What did she find only five pounds of butter sitting within on the dry wood!
+
+
+<pb id="pb187" n="187"/></p></div1><div1 id="ch25" n="XXV" type="Chapter"><head type="label">XXV</head><head>THE GANKEYNOGUE IN THE OAK CHEST</head><pb id="pb189" n="189"/><p>There was once a man of these parts and he had a great longing for to find a treasure.
+</p><p>It chanced one evening that he seen a gankeynogue in the field, sitting in under a bush, and he says:
+</p><p>&#8220;Yon lad will surely be worth a powerful weight of gold.&#8221;
+</p><p>With that he went over and caught a hold of the gankey.
+</p><p>&#8220;Let you discover a treasure,&#8221; says he, &#8220;or else I&#8217;ll keep you like a dog on a chain from this out.&#8221;
+</p><p>&#8220;Keep away!&#8221; says the gankey. &#8220;How would a poor creature like myself be finding treasure for a strong farmer!&#8221;
+<pb id="pb190" n="190"/></p><p>&#8220;Let you not let on to be miserable,&#8221; says the man, &#8220;for well I know it&#8217;s great wealth you enjoy.&#8221;
+</p><p>&#8220;Is it me!&#8221; says the gankeynogue. &#8220;Sure I support a lengthy family entirely by my own industry.&#8221;
+</p><p>But the farmer would not believe a word of the sort. He carried the gankey to his house and put him into a big oak chest.
+</p><p>&#8220;You&#8217;ll never get out except for to show me where treasure is lodged,&#8221; he allows.
+</p><p>But the gankeynogue wasn&#8217;t in notion of giving the least information. He sat up in the oak chest, hammering, shouting and singing until he had the people&#8217;s heads light.
+</p><p>All the while the farmer was determined to get the better of him and he never agreed to let him go.
+</p><p>The lad was his tenth day in the chest when the man of the house came running in that evening, shouting at the top of his voice:
+</p><p>&#8220;Darragh fort&#8217;s on fire! Darragh fort&#8217;s on fire!&#8221;
+</p><p>With that the gankey began the most woeful lamentations, and he hammering like mad to get out of the chest.
+</p><p>&#8220;What ails you at all?&#8221; asks the farmer.
+<pb id="pb191" n="191"/></p><p>&#8220;My wife and family are in that place,&#8221; says the gankey. &#8220;Let me away to bring them safe from the fire.&#8221;
+</p><p>&#8220;Will you show me a treasure?&#8221; asks the man. &#8220;Aye surely!&#8221; says the gankeynogue. &#8220;But let&#8217;s go first to Darragh fort to save my weak family, and then I&#8217;ll bestow the treasure.&#8221;
+</p><p>So the two started off for Darragh fort, and it not on fire at all&#8212;that was a story the man was after inventing for to scare the gankeynogue.
+</p><p>When they landed in sight of the place the man allowed the fire be to have burnt out. Didn&#8217;t the gankey make a run and lep in among the trees.
+</p><p>&#8220;I&#8217;m safe from you now,&#8221; says he.
+</p><p>But the man never let on to be vexed that he couldn&#8217;t see the lad any more, he listened to his voice speaking for to know the direction he went. Then he lay down in that part of the fort and let on to be asleep.
+</p><p>After a while he heard the gankeynogue telling his wife about how he was kept in the chest.
+</p><p>&#8220;I was ten days in that place,&#8221; says he. &#8220;And I full of venom against the farmer. <pb id="pb192" n="192"/>But it&#8217;s the cunning lad I am, for I never let on where the treasure is buried at all.&#8221;
+</p><p>&#8220;Where is it?&#8221; asks the gankeynogue&#8217;s wife.
+</p><p>&#8220;Under a stone in the street before his house,&#8221; says the gankey. &#8220;And herself tripped and spilled a bucket of milk just over the place this morning. I was looking out on a hole in the chest, and still I never let on one word when I seen what happened.&#8221;
+</p><p>&#8220;You&#8217;re a wise little fellow, sure enough,&#8221; says his wife.
+</p><p>The farmer got up and away home with him after hearing what they said. He asked herself where she spilled the milk at the morning of the day.
+</p><p>&#8220;By that stone,&#8221; says she, setting her foot on a flag in the street.
+</p><p>He brought the loy and a crowbar for to hoke up the place, and didn&#8217;t he discover a beautiful treasure of gold.
+
+
+
+<pb id="pb193" n="193"/></p></div1><div1 id="ch26" n="XXVI" type="Chapter"><head type="label">XXVI</head><head>THE MAKER OF BROGUES</head><pb id="pb195" n="195"/><p>There was a young lad travelling the road to a fair, and he passed convenient to a field had a sand pit in the middle of it. What did he see, sitting up in that place with his legs dangling over the edge of the pit, only a little wee man making brogues. The lad took one lep into the field and he walked up to the cobbler.
+</p><p>&#8220;Good-morning, mister!&#8221; says he. &#8220;Might I make so bold as to ask what work you are doing this hour of the morning dew, and what makes you fancy the edge of a pit for a seat?&#8221;
+</p><p>&#8220;&#8217;Tis making brogues I am,&#8221; says the leprachaun, &#8220;and they for the Good People&#8217;s wear.&#8221;
+<pb id="pb196" n="196"/></p><p>&#8220;I&#8217;m thinking you&#8217;re watching a treasure,&#8221; says the lad.
+</p><p>&#8220;I&#8217;m not,&#8221; says the leprachaun. &#8220;But I know where there&#8217;s plenty hid.&#8221;
+</p><p>&#8220;You be to discover it for me,&#8221; says the lad.
+</p><p>&#8220;Let you wait till this one pair of brogues is made,&#8221; says the fairy.
+</p><p>So the lad agreed and he sat down to watch him at work.
+</p><p>&#8220;Begob,&#8221; says he, &#8220;I never seen any person could hammer in nails such a rate.&#8221;
+</p><p>&#8220;It&#8217;s a slow worker I&#8217;m counted in these parts,&#8221; says the leprachaun. &#8220;Let you look down into the pit at the man is cobbling below. I warrant it&#8217;s three nails he&#8217;s driving for each one of mine.&#8221;
+</p><p>The lad looked over the edge.
+</p><p>&#8220;There is no man in it at all!&#8221; says he.
+</p><p>With that the leprachaun let a laugh.
+</p><p>&#8220;There is not,&#8221; says he.
+</p><p>&#8220;There&#8217;s a sore chastisement waiting on you for deceiving me,&#8221; answers the other.
+</p><p>But when he stood on his feet and looked round wasn&#8217;t the leprachaun gone.
+</p><p>&#8220;I&#8217;m the fool of the whole wide world,&#8221; says the lad, and he travelled away to the fair.
+
+
+
+<pb id="pb197" n="197"/></p></div1></body><back id="backmatter"><div1 id="gloss" type="Glossary"><head>GLOSSARY</head><p><hi>A power of</hi>, a large number.
+</p><p><hi>Bohlan</hi>, rag-weed.
+</p><p><hi>Loy</hi>, a sort of spade peculiar to the west and north-west of Ireland.
+</p><p><hi>Lone bush</hi>, a hawthorn growing at a distance from all other trees. The lone bushes are dedicated to the fairies, and must not be cut down.
+</p><p><hi>Cailee</hi>, a visit.
+</p><p><hi>Join the world</hi>, to marry.
+</p><p><hi>To allow</hi>, to declare.
+</p><p><hi>Gankeynogue</hi>, possibly a synonym of leprachaun, used only in the northern districts. A stone barred with fossil reed is said to be the Gankeynogue&#8217;s pipe.
+</p><p><hi>Fort.</hi> The forts referred to are the circular enclosures supposed to have been made, in pre-Christian days, by the Tuatha de Danaan.
+</p><p><hi>Breffny</hi>, the counties of Cavan and Leitrim, originally part of Connaught, though Cavan is now in Ulster.
+
+</p></div1><div1 id="imprint2" type="Imprint"><p rend="align(center)"><hi>Printed by</hi> <hi rend="sc">R. &amp; R. Clark, Limited</hi>, <hi>Edinburgh</hi>.
+
+
+
+
+<pb id="pb199" n="199"/></p></div1><div1 id="ads" type="Ads"><p rend="align(center) font-size(large)"><hi>Price 5s. net.</hi>
+</p><p rend="align(center) font-size(xx-large)"><xref url="pg:1605">THE CROCK OF GOLD</xref>
+</p><p rend="align(center) font-size(x-large)"><hi rend="sc">By</hi> JAMES STEPHENS
+</p><p rend="align(center)">AUTHOR OF &#8220;THE CHARWOMAN&#8217;S DAUGHTER,&#8221; ETC.
+
+</p><p rend="margin-left(10%) margin-right(10%) font-size(large)">A story of the open air, of deep forests, of rock-strewn pastures, and mountain-tops, and, though the human element is not absent, it deals chiefly with the fairy-folk of old Ireland, with the god Pan, and the great Angus Og.
+
+</p><p><hi>STANDARD.</hi>&#8212;&#8220;There is not another book like this <hi>Crock of Gold</hi> in English literature. There are many books like pieces of it, but the humour and the style, these things are Mr. Stephen&#8217;s own peculiar gift.&#8221;
+</p><p><hi>PALL MALL GAZETTE.</hi>&#8212;&#8220;A wise, beautiful, and humorous book.... If you could have given Sterne a soul and made him a poet he might have produced <hi>The Crock of Gold</hi>.&#8221;
+</p><p><hi>DAILY NEWS.</hi>&#8212;&#8220;The author&#8217;s inexhaustible vitality, his happy humour, his eloquence, and his whimsicality will delight a host of readers.&#8221;
+</p><p><hi>GLOBE.</hi>&#8212;&#8220;To imaginative readers Mr. Stephen&#8217;s new work will be an intense and abiding delight.... We feel we have been lifted for a brief space above the ordinary things of life, and come back to earth carrying with us the abiding memory of the rarely humorous and the beautiful. We have read nothing quite like <hi>The Crock of Gold</hi>. It has a charm and humour peculiar to itself, and places its author high in the ranks of imaginative poetic writers.&#8221;
+
+</p><p rend="align(center) font-size(large)">LONDON: MACMILLAN &amp; CO., <hi rend="sc">Ltd.</hi>
+
+
+<pb id="pb200" n="200"/>
+
+</p><p rend="align(center) font-size(x-large)">New Six-Shilling Novels
+
+</p><p><xref url="pg:35338">MARRIAGE</xref>. By <hi rend="sc">H. G. Wells</hi>.
+</p><p>MRS. LANCELOT. By <hi rend="sc">Maurice Hewlett</hi>.
+</p><p><xref url="pg:283">THE REEF</xref>. By <hi rend="sc">Edith Wharton</hi>.
+</p><p>THE HEROINE IN BRONZE. By <hi rend="sc">James Lane Allen</hi>.
+</p><p><xref url="pg:19656">ONE WOMAN&#8217;S LIFE</xref>. By <hi rend="sc">Robert Herrick</hi>.
+</p><p>A REGULAR MADAM. By <hi rend="sc">Alice Wilson Fox</hi>.
+</p><p>VAN CLEVE. By <hi rend="sc">Mary S. Watts</hi>.
+</p><p>EDWARD FAIRLIE FRANKFORT, <hi rend="sc">or Politics among the People</hi>. By Sir <hi rend="sc">Henry Wrixon</hi>, K.C.
+</p><p>THE STRANGER AT THE GATE. By <hi rend="sc">M. O. Wright</hi>. Illustrated.
+</p><p><xref url="pg:44878">A MAN&#8217;S WORLD</xref>. By <hi rend="sc">Albert Edwards</hi>.
+</p><p><xref url="pg:4288">THE RICH MRS. BURGOYNE</xref>. By <hi rend="sc">Kathleen Norris</hi>. Illustrated.
+
+</p><p rend="align(center)">LONDON: MACMILLAN &amp; CO., <hi rend="sc">Ltd.</hi>
+
+
+</p></div1><div1 id="backcover" type="Cover"><p><figure id="back" rend="image(images/backcover.jpg)"><figDesc>Original Back Cover.</figDesc></figure>
+
+</p></div1><divGen type="Colophon"/></back></text></TEI.2>
